@@ -27,7 +27,8 @@ jobs:
       - name: Setup Pages Folder
         run: |
           mkdir -p _site
-          cp mppsc_cbt_portal.html _site/index.html
+          cp index.html _site/index.html
+          cp mppsc_cbt_portal.html _site/mppsc_cbt_portal.html
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
