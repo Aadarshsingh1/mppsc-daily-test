@@ -33,24 +33,29 @@ html_content = """<!DOCTYPE html>
     /* Official CBT Question Palette State Styles */
     .palette-btn {
       position: relative;
-      width: 38px;
-      height: 34px;
-      font-size: 12px;
-      font-weight: 600;
+      width: 42px;
+      height: 36px;
+      font-size: 13px;
+      font-weight: 700;
       display: flex;
       align-items: center;
       justify-content: center;
-      border-radius: 4px;
+      border-radius: 6px;
       transition: all 0.15s ease-in-out;
       border: 1px solid #cbd5e1;
       user-select: none;
+      cursor: pointer;
     }
     
     /* State 1: Not Visited */
     .state-not-visited {
-      background-color: #f1f5f9;
-      color: #475569;
+      background-color: #f8fafc;
+      color: #334155;
       border-color: #cbd5e1;
+    }
+    .state-not-visited:hover {
+      background-color: #e2e8f0;
+      border-color: #94a3b8;
     }
     
     /* State 2: Not Answered */
@@ -58,39 +63,39 @@ html_content = """<!DOCTYPE html>
       background-color: #ef4444;
       color: #ffffff;
       border-color: #dc2626;
-      border-radius: 4px 4px 14px 14px; /* classic CBT bookmark shape */
+      border-radius: 4px 4px 12px 12px; /* classic CBT bookmark shape */
     }
     
     /* State 3: Answered */
     .state-answered {
-      background-color: #22c55e;
+      background-color: #16a34a;
       color: #ffffff;
-      border-color: #16a34a;
-      border-radius: 14px 14px 4px 4px; /* classic CBT trapezoid shape */
+      border-color: #15803d;
+      border-radius: 12px 12px 4px 4px; /* classic CBT trapezoid shape */
     }
     
     /* State 4: Marked for Review */
     .state-marked-review {
-      background-color: #8b5cf6;
+      background-color: #7c3aed;
       color: #ffffff;
-      border-color: #7c3aed;
+      border-color: #6d28d9;
       border-radius: 50%;
     }
     
     /* State 5: Answered and Marked for Review */
     .state-answered-marked {
-      background-color: #8b5cf6;
+      background-color: #7c3aed;
       color: #ffffff;
-      border-color: #7c3aed;
+      border-color: #6d28d9;
       border-radius: 50%;
     }
     .state-answered-marked::after {
       content: '';
       position: absolute;
-      bottom: 2px;
-      right: 2px;
-      width: 9px;
-      height: 9px;
+      bottom: 1.5px;
+      right: 1.5px;
+      width: 10px;
+      height: 10px;
       background-color: #22c55e;
       border-radius: 50%;
       border: 1.5px solid #ffffff;
@@ -99,7 +104,7 @@ html_content = """<!DOCTYPE html>
     .palette-btn.active-current {
       outline: 2px solid #2563eb;
       outline-offset: 2px;
-      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.3);
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.4);
     }
 
     /* Custom Scrollbars */
@@ -378,15 +383,15 @@ html_content = """<!DOCTYPE html>
       </div>
     </div>
 
-    <!-- CBT Main Body: Split View (Left Question Panel 75%, Right Palette 25%) -->
-    <div class="flex-1 flex flex-col lg:flex-row overflow-hidden">
+    <!-- CBT Main Body: Split View (Left Question Panel, Right Palette) -->
+    <div class="flex-1 flex flex-col lg:flex-row overflow-hidden min-h-0">
 
       <!-- Left Side: Question Panel -->
-      <div class="flex-1 flex flex-col bg-white overflow-y-auto custom-scroll border-r border-slate-200">
+      <div class="flex-1 flex flex-col bg-white border-r border-slate-200 overflow-hidden min-h-0">
         <!-- Question Header Strip -->
-        <div class="bg-slate-50 border-b border-slate-200 px-5 py-2.5 flex items-center justify-between text-xs">
+        <div class="bg-slate-50 border-b border-slate-200 px-5 py-2.5 flex items-center justify-between text-xs shrink-0">
           <div class="font-bold text-slate-800">
-            Question No. <span id="currentQNumDisplay" class="text-blue-900 text-sm">1</span> of 100
+            Question No. <span id="currentQNumDisplay" class="text-blue-900 text-sm font-extrabold">1</span> of 100
           </div>
           <div class="flex items-center gap-3 text-slate-500">
             <span>Marks: <span class="font-bold text-emerald-600">+1.00</span></span>
@@ -394,58 +399,57 @@ html_content = """<!DOCTYPE html>
           </div>
         </div>
 
-        <!-- Question & Options Content Area -->
-        <div class="flex-1 p-5 md:p-7 space-y-6">
-
+        <!-- Question & Options Content Area (ONLY this part scrolls if tall) -->
+        <div class="flex-1 overflow-y-auto p-4 md:p-6 space-y-4 custom-scroll">
           <!-- Question Text (English) -->
           <div id="qTextEnglish" class="text-slate-900 text-base md:text-lg font-medium leading-relaxed">
             <!-- English Question Injected Here -->
           </div>
 
           <!-- Question Text (Hindi) -->
-          <div id="qTextHindi" class="hindi-text text-slate-800 text-base md:text-lg font-medium leading-relaxed bg-amber-50/50 p-4 rounded-lg border border-amber-200/60">
+          <div id="qTextHindi" class="hindi-text text-slate-800 text-base md:text-lg font-medium leading-relaxed bg-amber-50/50 p-3.5 rounded-lg border border-amber-200/60">
             <!-- Hindi Question Injected Here -->
           </div>
 
           <!-- 4 Options (A, B, C, D) -->
-          <div class="pt-2">
-            <div class="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">Options:</div>
-            <div id="cbtOptionsContainer" class="space-y-3">
+          <div class="pt-1">
+            <div class="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Options:</div>
+            <div id="cbtOptionsContainer" class="space-y-2.5">
               <!-- Dynamically populated options -->
             </div>
           </div>
         </div>
 
-        <!-- CBT Action Buttons Bottom Strip -->
-        <div class="bg-slate-50 border-t border-slate-200 px-4 py-3 flex flex-wrap items-center justify-between gap-3 shrink-0">
+        <!-- CBT Action Buttons Bottom Strip - PINNED AT BOTTOM (Zero scrolling required!) -->
+        <div class="bg-slate-50 border-t border-slate-200 px-5 py-3 flex flex-wrap items-center justify-between gap-3 shrink-0 shadow-[0_-2px_6px_rgba(0,0,0,0.04)]">
           <!-- Left Actions -->
           <div class="flex items-center gap-2">
-            <button onclick="handlePreviousQuestion()" id="btnPrev" class="px-4 py-2 bg-white hover:bg-slate-100 text-slate-700 text-xs font-semibold rounded border border-slate-300 transition shadow-sm disabled:opacity-40">
-              Previous
+            <button onclick="handlePreviousQuestion()" id="btnPrev" class="px-4 py-2 bg-white hover:bg-slate-100 text-slate-700 text-xs font-bold rounded-lg border border-slate-300 transition shadow-xs disabled:opacity-40">
+              ← Previous
             </button>
-            <button onclick="handleClearResponse()" class="px-4 py-2 bg-white hover:bg-rose-50 text-rose-700 text-xs font-semibold rounded border border-rose-300 transition shadow-sm">
+            <button onclick="handleClearResponse()" class="px-4 py-2 bg-white hover:bg-rose-50 text-rose-700 text-xs font-bold rounded-lg border border-rose-300 transition shadow-xs">
               Clear Response
             </button>
           </div>
 
           <!-- Right Actions -->
           <div class="flex items-center gap-2">
-            <button onclick="handleMarkForReview()" class="px-4 py-2 bg-purple-100 hover:bg-purple-200 text-purple-900 text-xs font-bold rounded border border-purple-300 transition shadow-sm">
+            <button onclick="handleMarkForReview()" class="px-4 py-2 bg-purple-100 hover:bg-purple-200 text-purple-900 text-xs font-bold rounded-lg border border-purple-300 transition shadow-xs">
               Mark for Review & Next
             </button>
-            <button onclick="handleSaveAndNext()" class="px-5 py-2 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold rounded transition shadow-md shadow-emerald-900/10">
-              Save & Next
+            <button onclick="handleSaveAndNext()" class="px-6 py-2 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-black rounded-lg transition shadow-md shadow-emerald-900/15">
+              Save & Next →
             </button>
           </div>
         </div>
       </div>
 
-      <!-- Right Side: Question Palette Panel (25% on desktop) -->
-      <div class="w-full lg:w-80 bg-slate-50 flex flex-col shrink-0 border-t lg:border-t-0 overflow-y-auto custom-scroll">
+      <!-- Right Side: Question Palette Panel -->
+      <div class="w-full lg:w-80 bg-slate-50 flex flex-col shrink-0 border-t lg:border-t-0 overflow-hidden min-h-0">
 
         <!-- Candidate Mini Profile -->
-        <div class="p-3 bg-white border-b border-slate-200 flex items-center gap-3">
-          <div class="w-10 h-10 rounded bg-slate-200 border border-slate-300 flex items-center justify-center text-slate-500 font-bold text-xs shrink-0">
+        <div class="p-2.5 bg-white border-b border-slate-200 flex items-center gap-3 shrink-0">
+          <div class="w-9 h-9 rounded bg-slate-100 border border-slate-300 flex items-center justify-center text-slate-500 font-bold text-xs shrink-0">
             PHOTO
           </div>
           <div class="overflow-hidden">
@@ -455,27 +459,27 @@ html_content = """<!DOCTYPE html>
         </div>
 
         <!-- Official 5 CBT States Legend -->
-        <div class="p-3 bg-white border-b border-slate-200 text-[11px] space-y-2">
-          <div class="font-bold text-slate-700 text-xs mb-1">Question Status Legend:</div>
-          <div class="grid grid-cols-2 gap-2 text-slate-600">
-            <div class="flex items-center gap-2">
-              <span class="w-5 h-4 bg-emerald-500 rounded text-white text-[9px] font-bold flex items-center justify-center" style="border-radius: 6px 6px 2px 2px;">#</span>
+        <div class="p-2.5 bg-white border-b border-slate-200 text-[11px] space-y-1.5 shrink-0">
+          <div class="font-bold text-slate-700 text-[11px] mb-0.5">Question Status Legend:</div>
+          <div class="grid grid-cols-2 gap-1.5 text-slate-600">
+            <div class="flex items-center gap-1.5">
+              <span class="w-5 h-4 bg-emerald-600 rounded text-white text-[9px] font-bold flex items-center justify-center" style="border-radius: 6px 6px 2px 2px;">#</span>
               <span>Answered (<b id="cntAnswered">0</b>)</span>
             </div>
-            <div class="flex items-center gap-2">
+            <div class="flex items-center gap-1.5">
               <span class="w-5 h-4 bg-red-500 rounded text-white text-[9px] font-bold flex items-center justify-center" style="border-radius: 2px 2px 6px 6px;">#</span>
               <span>Not Answered (<b id="cntNotAnswered">0</b>)</span>
             </div>
-            <div class="flex items-center gap-2">
-              <span class="w-5 h-4 bg-slate-200 border border-slate-300 rounded text-slate-600 text-[9px] font-bold flex items-center justify-center">#</span>
+            <div class="flex items-center gap-1.5">
+              <span class="w-5 h-4 bg-slate-100 border border-slate-300 rounded text-slate-700 text-[9px] font-bold flex items-center justify-center">#</span>
               <span>Not Visited (<b id="cntNotVisited">100</b>)</span>
             </div>
-            <div class="flex items-center gap-2">
+            <div class="flex items-center gap-1.5">
               <span class="w-4 h-4 bg-purple-600 rounded-full text-white text-[9px] font-bold flex items-center justify-center">#</span>
               <span>Marked (<b id="cntMarked">0</b>)</span>
             </div>
           </div>
-          <div class="flex items-center gap-2 pt-1 border-t border-slate-100 text-slate-600">
+          <div class="flex items-center gap-1.5 pt-1 border-t border-slate-100 text-slate-600">
             <span class="relative w-4 h-4 bg-purple-600 rounded-full text-white text-[9px] font-bold flex items-center justify-center">
               #
               <span class="absolute -bottom-0.5 -right-0.5 w-2 h-2 bg-emerald-400 rounded-full border border-white"></span>
@@ -484,17 +488,20 @@ html_content = """<!DOCTYPE html>
           </div>
         </div>
 
-        <!-- 100-Question Palette Grid -->
-        <div class="flex-1 p-3">
-          <div class="text-xs font-bold text-slate-700 mb-2">Questions (1 - 100):</div>
-          <div id="cbtPaletteGrid" class="grid grid-cols-5 gap-1.5">
-            <!-- 100 Buttons generated via JS -->
+        <!-- 100-Question Palette Grid (Clean scrollable grid) -->
+        <div class="flex-1 overflow-y-auto p-2.5 custom-scroll">
+          <div class="text-xs font-bold text-slate-700 mb-2 flex items-center justify-between">
+            <span>Questions (1 - 100):</span>
+            <span class="text-[10px] text-slate-400 font-normal">Click number to jump</span>
+          </div>
+          <div id="cbtPaletteGrid" class="grid grid-cols-5 gap-1.5 justify-items-center">
+            <!-- 100 Buttons generated via JS with numbers 1 to 100 -->
           </div>
         </div>
 
         <!-- Bottom Quick Submit Button -->
-        <div class="p-3 bg-white border-t border-slate-200 shrink-0">
-          <button onclick="openSubmitModal()" class="w-full py-2 bg-blue-900 hover:bg-blue-800 text-white font-bold text-xs rounded shadow transition">
+        <div class="p-2.5 bg-white border-t border-slate-200 shrink-0">
+          <button onclick="openSubmitModal()" class="w-full py-2 bg-blue-900 hover:bg-blue-800 text-white font-bold text-xs rounded-lg shadow transition">
             Final Examination Submit
           </button>
         </div>
@@ -874,10 +881,11 @@ html_content = """<!DOCTYPE html>
     // Render Question & Options
     function renderQuestion() {
       const q = examQuestions[appState.currentQIdx];
+      const qNum = appState.currentQIdx + 1;
       const qId = q.id;
 
       // Update question number
-      document.getElementById('currentQNumDisplay').innerText = qId;
+      document.getElementById('currentQNumDisplay').innerText = qNum;
 
       // Question texts
       const enEl = document.getElementById('qTextEnglish');
@@ -886,16 +894,16 @@ html_content = """<!DOCTYPE html>
       if (appState.examLanguage === 'both') {
         enEl.style.display = 'block';
         hiEl.style.display = 'block';
-        enEl.innerHTML = `<span class="text-blue-900 font-bold mr-1.5">Q${qId}.</span> ${q.question_en}`;
-        hiEl.innerHTML = `<span class="text-amber-800 font-bold mr-1.5">प्र. ${qId}.</span> ${q.question_hi}`;
+        enEl.innerHTML = `<span class="text-blue-900 font-bold mr-1.5">Q${qNum}.</span> ${q.question_en}`;
+        hiEl.innerHTML = `<span class="text-amber-800 font-bold mr-1.5">प्र. ${qNum}.</span> ${q.question_hi}`;
       } else if (appState.examLanguage === 'hi') {
         enEl.style.display = 'none';
         hiEl.style.display = 'block';
-        hiEl.innerHTML = `<span class="text-amber-800 font-bold mr-1.5">प्र. ${qId}.</span> ${q.question_hi}`;
+        hiEl.innerHTML = `<span class="text-amber-800 font-bold mr-1.5">प्र. ${qNum}.</span> ${q.question_hi}`;
       } else {
         enEl.style.display = 'block';
         hiEl.style.display = 'none';
-        enEl.innerHTML = `<span class="text-blue-900 font-bold mr-1.5">Q${qId}.</span> ${q.question_en}`;
+        enEl.innerHTML = `<span class="text-blue-900 font-bold mr-1.5">Q${qNum}.</span> ${q.question_en}`;
       }
 
       // Render Options
@@ -1029,7 +1037,8 @@ html_content = """<!DOCTYPE html>
       examQuestions.forEach((q, idx) => {
         const btn = document.createElement('button');
         btn.id = 'palBtn-' + q.id;
-        btn.innerText = q.id;
+        btn.innerText = (idx + 1);
+        btn.title = 'Question ' + (idx + 1);
         btn.onclick = () => jumpToQuestionPalette(idx);
         applyPaletteStyle(btn, q.id, idx);
         grid.appendChild(btn);
@@ -1053,7 +1062,7 @@ html_content = """<!DOCTYPE html>
     }
 
     function updatePaletteItem(qId) {
-      const idx = qId - 1;
+      const idx = appState.currentQIdx;
       const btn = document.getElementById('palBtn-' + qId);
       if (btn) applyPaletteStyle(btn, qId, idx);
     }
@@ -1191,7 +1200,7 @@ html_content = """<!DOCTYPE html>
       const container = document.getElementById('resultSolutionsList');
       container.innerHTML = '';
 
-      examQuestions.forEach(q => {
+      examQuestions.forEach((q, idx) => {
         const resp = appState.responses[q.id];
         const userChoice = resp.selectedOption;
         const isCorrect = userChoice === q.correct;
@@ -1219,7 +1228,7 @@ html_content = """<!DOCTYPE html>
 
         const letters = ['A', 'B', 'C', 'D'];
         let optionsHtml = '';
-        letters.forEach((l, idx) => {
+        letters.forEach((l, optIdx) => {
           let optStyle = 'border-slate-200 bg-slate-50 text-slate-700';
           if (l === q.correct) {
             optStyle = 'border-emerald-500 bg-emerald-50 text-emerald-900 font-bold';
@@ -1231,8 +1240,8 @@ html_content = """<!DOCTYPE html>
             <div class="p-2.5 rounded-lg border ${optStyle} flex items-start gap-2 text-xs">
               <span class="font-bold shrink-0">${l}.</span>
               <div class="flex-1">
-                <div>${q.options_en[idx]}</div>
-                <div class="hindi-text text-slate-500 mt-0.5">${q.options_hi[idx]}</div>
+                <div>${q.options_en[optIdx]}</div>
+                <div class="hindi-text text-slate-500 mt-0.5">${q.options_hi[optIdx]}</div>
               </div>
             </div>
           `;
@@ -1248,7 +1257,7 @@ html_content = """<!DOCTYPE html>
         card.innerHTML = `
           <div class="flex items-center justify-between border-b border-slate-100 pb-2">
             <div class="flex items-center gap-2">
-              <span class="font-bold text-xs text-blue-950">Question ${q.id}</span>
+              <span class="font-bold text-xs text-blue-950">Question ${idx + 1}</span>
               ${sourceBadge}
             </div>
             <div>${badge}</div>
