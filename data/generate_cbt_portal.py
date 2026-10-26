@@ -329,7 +329,7 @@ html_content = """<!DOCTYPE html>
   <!-- ============================================================== -->
   <!-- VIEW 2: REAL EXAMINATION SCREEN (CBT Layout) -->
   <!-- ============================================================== -->
-  <div id="viewExamination" class="hidden flex-1 flex flex-col h-screen overflow-hidden bg-slate-100">
+  <div id="viewExamination" class="hidden fixed inset-0 z-50 flex flex-col bg-slate-100 overflow-hidden">
 
     <!-- CBT Exam Header -->
     <header class="bg-blue-950 text-white px-4 py-2 flex items-center justify-between border-b border-blue-900 shrink-0">
@@ -399,8 +399,8 @@ html_content = """<!DOCTYPE html>
           </div>
         </div>
 
-        <!-- Question & Options Content Area (ONLY this part scrolls if tall) -->
-        <div class="flex-1 overflow-y-auto p-4 md:p-6 space-y-4 custom-scroll">
+        <!-- Question & Options Content Area -->
+        <div id="qScrollArea" class="flex-1 overflow-y-auto p-4 md:p-6 space-y-4 custom-scroll">
           <!-- Question Text (English) -->
           <div id="qTextEnglish" class="text-slate-900 text-base md:text-lg font-medium leading-relaxed">
             <!-- English Question Injected Here -->
@@ -418,28 +418,28 @@ html_content = """<!DOCTYPE html>
               <!-- Dynamically populated options -->
             </div>
           </div>
-        </div>
 
-        <!-- CBT Action Buttons Bottom Strip - PINNED AT BOTTOM (Zero scrolling required!) -->
-        <div class="bg-slate-50 border-t border-slate-200 px-5 py-3 flex flex-wrap items-center justify-between gap-3 shrink-0 shadow-[0_-2px_6px_rgba(0,0,0,0.04)]">
-          <!-- Left Actions -->
-          <div class="flex items-center gap-2">
-            <button onclick="handlePreviousQuestion()" id="btnPrev" class="px-4 py-2 bg-white hover:bg-slate-100 text-slate-700 text-xs font-bold rounded-lg border border-slate-300 transition shadow-xs disabled:opacity-40">
-              ← Previous
-            </button>
-            <button onclick="handleClearResponse()" class="px-4 py-2 bg-white hover:bg-rose-50 text-rose-700 text-xs font-bold rounded-lg border border-rose-300 transition shadow-xs">
-              Clear Response
-            </button>
-          </div>
+          <!-- CBT Action Buttons: APPEAR IMMEDIATELY AT THE END OF THE QUESTION (Directly below Option D) -->
+          <div class="pt-4 mt-4 border-t border-slate-200 flex flex-wrap items-center justify-between gap-3 bg-slate-50 p-3.5 rounded-xl border border-slate-200">
+            <!-- Left Actions -->
+            <div class="flex items-center gap-2">
+              <button onclick="handlePreviousQuestion()" id="btnPrev" class="px-4 py-2 bg-white hover:bg-slate-100 text-slate-700 text-xs font-bold rounded-lg border border-slate-300 transition shadow-xs disabled:opacity-40">
+                ← Previous
+              </button>
+              <button onclick="handleClearResponse()" class="px-4 py-2 bg-white hover:bg-rose-50 text-rose-700 text-xs font-bold rounded-lg border border-rose-300 transition shadow-xs">
+                Clear Response
+              </button>
+            </div>
 
-          <!-- Right Actions -->
-          <div class="flex items-center gap-2">
-            <button onclick="handleMarkForReview()" class="px-4 py-2 bg-purple-100 hover:bg-purple-200 text-purple-900 text-xs font-bold rounded-lg border border-purple-300 transition shadow-xs">
-              Mark for Review & Next
-            </button>
-            <button onclick="handleSaveAndNext()" class="px-6 py-2 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-black rounded-lg transition shadow-md shadow-emerald-900/15">
-              Save & Next →
-            </button>
+            <!-- Right Actions -->
+            <div class="flex items-center gap-2">
+              <button onclick="handleMarkForReview()" class="px-4 py-2 bg-purple-100 hover:bg-purple-200 text-purple-900 text-xs font-bold rounded-lg border border-purple-300 transition shadow-xs">
+                Mark for Review & Next
+              </button>
+              <button onclick="handleSaveAndNext()" class="px-6 py-2 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-black rounded-lg transition shadow-md shadow-emerald-900/15">
+                Save & Next →
+              </button>
+            </div>
           </div>
         </div>
       </div>
@@ -817,7 +817,9 @@ html_content = """<!DOCTYPE html>
       if (targetView === 'EXAMINATION') {
         if (header) header.classList.add('hidden');
         document.getElementById('viewExamination').classList.remove('hidden');
+        document.body.style.overflow = 'hidden';
       } else {
+        document.body.style.overflow = '';
         if (header) header.classList.remove('hidden');
         if (targetView === 'DASHBOARD') document.getElementById('viewDashboard').classList.remove('hidden');
         if (targetView === 'RESULT') document.getElementById('viewResult').classList.remove('hidden');
@@ -883,6 +885,10 @@ html_content = """<!DOCTYPE html>
       const q = examQuestions[appState.currentQIdx];
       const qNum = appState.currentQIdx + 1;
       const qId = q.id;
+
+      // Reset scroll to top of question area
+      const qScroll = document.getElementById('qScrollArea');
+      if (qScroll) qScroll.scrollTop = 0;
 
       // Update question number
       document.getElementById('currentQNumDisplay').innerText = qNum;
