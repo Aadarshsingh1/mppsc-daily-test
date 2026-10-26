@@ -1,0 +1,29 @@
+name: Daily MPPSC Mock Test 7:58 PM Dispatch
+
+on:
+  schedule:
+    # 14:28 UTC is exactly 19:58 IST (7:58 PM Indian Standard Time)
+    - cron: '28 14 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  dispatch-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Dispatch Daily MPPSC Test to Candidate
+        env:
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          SENDER_APP_PASSWORD: ${{ secrets.SENDER_APP_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+          PORTAL_PUBLIC_URL: ${{ secrets.PORTAL_PUBLIC_URL }}
+        run: |
+          python send_daily_test.py

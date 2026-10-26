@@ -1,0 +1,3612 @@
+[
+  {
+    "id": "MPPSC-Q-0001",
+    "unit": "Unit 1: MP History, Culture & Literature",
+    "topic": "MP History, Culture & Literature",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2021,
+      "paper": "GS Paper 1",
+      "notes": "Parmara capital shift to Dhar by Raja Bhoj"
+    },
+    "question_en": "The famous Paramara ruler Raja Bhoj shifted his capital from Ujjain to which of the following cities?",
+    "question_hi": "प्रसिद्ध परमार शासक राजा भोज ने अपनी राजधानी उज्जैन से निम्नलिखित में से किस शहर में स्थानांतरित की थी?",
+    "options_en": [
+      "Mandu",
+      "Dhar",
+      "Vidisha",
+      "Chanderi"
+    ],
+    "options_hi": [
+      "मांडू",
+      "धार",
+      "विदिशा",
+      "चंदेरी"
+    ],
+    "correct": "B",
+    "explanation_en": "Raja Bhoj (1000–1055 CE) shifted the Paramara capital from Ujjain to Dhar (Dharanagari). He was a great patron of arts, literature, and architecture, and founded the Bhojeshwar Temple at Bhojpur and the Bhojshala at Dhar.",
+    "explanation_hi": "राजा भोज (1000-1055 ई.) ने परमारों की राजधानी उज्जैन से धार (धारानगरी) स्थानांतरित की थी। वे कला, साहित्य और स्थापत्य के महान संरक्षक थे। उन्होंने धार में भोजशाला और भोजपुर में प्रसिद्ध भोजेश्वर मंदिर का निर्माण कराया था।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835846"
+  },
+  {
+    "id": "MPPSC-Q-0002",
+    "unit": "Unit 1: MP History, Culture & Literature",
+    "topic": "MP History, Culture & Literature",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2020,
+      "paper": "GS Paper 1",
+      "notes": "Rani Durgavati vs Asaf Khan 1564"
+    },
+    "question_en": "In 1564, Rani Durgavati of the Gondwana kingdom attained martyrdom while defending her realm against which Mughal general?",
+    "question_hi": "वर्ष 1564 में गोंडवाना राज्य की रानी दुर्गावती किस मुगल सेनापति के विरुद्ध अपने राज्य की रक्षा करते हुए वीरगति को प्राप्त हुईं?",
+    "options_en": [
+      "Bairam Khan",
+      "Asaf Khan",
+      "Adham Khan",
+      "Man Singh"
+    ],
+    "options_hi": [
+      "बैरम खां",
+      "आसफ खां",
+      "अधम खां",
+      "मान सिंह"
+    ],
+    "correct": "B",
+    "explanation_en": "Rani Durgavati, the brave queen of Garha-Katanga (Gondwana), fought valiantly against Mughal forces led by Asaf Khan in the Battle of Narrai (near Jabalpur) in June 1564 and chose martyrdom over surrender.",
+    "explanation_hi": "गोंडवाना (गढ़-कटंगा) की वीरांगना रानी दुर्गावती जून 1564 में जबलपुर के समीप नर्रई नाले के युद्ध में अकबर के सेनापति आसफ खां की सेना से वीरतापूर्वक लड़ीं और आत्मसमर्पण करने के बजाय वीरगति को वरण किया।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835881"
+  },
+  {
+    "id": "MPPSC-Q-0003",
+    "unit": "Unit 1: MP History, Culture & Literature",
+    "topic": "MP History, Culture & Literature",
+    "subtopic": "Core Syllabus",
+    "difficulty": "DIFFICULT",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Who among the following was the primary leader of the Bundela Rebellion of 1842 from the Chanderi region?",
+    "question_hi": "चंदेरी क्षेत्र से 1842 के बुंदेला विद्रोह के प्रमुख नेता निम्नलिखित में से कौन थे?",
+    "options_en": [
+      "Raja Madhukar Shah",
+      "Jawahar Singh Bundela",
+      "Bakhat Vali",
+      "Mardan Singh"
+    ],
+    "options_hi": [
+      "राजा मधुकर शाह",
+      "जवाहर सिंह बुंदेला",
+      "बखत वली",
+      "मर्दन सिंह"
+    ],
+    "correct": "A",
+    "explanation_en": "Raja Madhukar Shah of Narhat (near Sagar/Chanderi) and Jawahar Singh Bundela of Chandrapur were key leaders of the Bundela Rebellion of 1842 against British colonial tax policies and annexation attempts.",
+    "explanation_hi": "1842 के बुंदेला विद्रोह में नरहट (सागर/चंदेरी क्षेत्र) के राजा मधुकर शाह और चंद्रपुर के जवाहर सिंह बुंदेला ने ब्रिटिश दमनकारी नीतियों के विरुद्ध प्रमुख नेतृत्व प्रदान किया था।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835889"
+  },
+  {
+    "id": "MPPSC-Q-0004",
+    "unit": "Unit 1: MP History, Culture & Literature",
+    "topic": "MP History, Culture & Literature",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2018,
+      "paper": "GS Paper 1",
+      "notes": "Tatya Tope execution at Shivpuri 18 April 1859"
+    },
+    "question_en": "Great freedom fighter Tatya Tope was executed by the British at which place in Madhya Pradesh on 18th April 1859?",
+    "question_hi": "महान स्वतंत्रता सेनानी तात्या टोपे को 18 अप्रैल 1859 को मध्य प्रदेश के किस स्थान पर अंग्रेजों द्वारा फांसी दी गई थी?",
+    "options_en": [
+      "Gwalior",
+      "Shivpuri",
+      "Jhansi",
+      "Indore"
+    ],
+    "options_hi": [
+      "ग्वालियर",
+      "शिवपुरी",
+      "झांसी",
+      "इंदौर"
+    ],
+    "correct": "B",
+    "explanation_en": "Tatya Tope was betrayed by Raja Man Singh of Narwar, captured by the British in the forests of Paron, and executed on 18 April 1859 at Shivpuri.",
+    "explanation_hi": "तात्या टोपे को नरवर के राजा मानसिंह के विश्वासघात के कारण ब्रिटिश सेना ने पाड़ौन के जंगलों से पकड़ा और 18 अप्रैल 1859 को शिवपुरी में फांसी दी गई।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835895"
+  },
+  {
+    "id": "MPPSC-Q-0005",
+    "unit": "Unit 1: MP History, Culture & Literature",
+    "topic": "MP History, Culture & Literature",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2022,
+      "paper": "GS Paper 1",
+      "notes": "Bhagoria Haat Bhil tribe festival"
+    },
+    "question_en": "The famous traditional 'Bhagoria Haat' festival of Madhya Pradesh is primarily celebrated by which tribe during the Holi festival?",
+    "question_hi": "मध्य प्रदेश का प्रसिद्ध पारंपरिक 'भगोरिया हाट' उत्सव होली के समय मुख्य रूप से किस जनजाति द्वारा मनाया जाता है?",
+    "options_en": [
+      "Gond",
+      "Bhil",
+      "Baiga",
+      "Sahariya"
+    ],
+    "options_hi": [
+      "गोंड",
+      "भील",
+      "बैगा",
+      "सहरिया"
+    ],
+    "correct": "B",
+    "explanation_en": "Bhagoria is a vibrant traditional cultural festival and fair celebrated by the Bhil and Bhilala tribes in Jhabua, Alirajpur, and West Nimar (Khargone) districts during the week preceding Holi.",
+    "explanation_hi": "भगोरिया उत्सव मध्य प्रदेश के झाबुआ, अलीराजपुर तथा पश्चिमी निमाड़ में भील एवं भिलाला जनजाति द्वारा होली के त्योहार के सात दिन पूर्व बड़े हर्षोल्लास से मनाया जाता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835900"
+  },
+  {
+    "id": "MPPSC-Q-0006",
+    "unit": "Unit 1: MP History, Culture & Literature",
+    "topic": "MP History, Culture & Literature",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Padma Shri awardee Pema Fatya was renowned for which traditional tribal art form of Madhya Pradesh?",
+    "question_hi": "पद्मश्री से सम्मानित पेमा फत्या मध्य प्रदेश के किस पारंपरिक जनजातीय कला रूप के लिए विख्यात थे?",
+    "options_en": [
+      "Gond Art",
+      "Pithora Painting",
+      "Mandana Art",
+      "Chhipa Shilp"
+    ],
+    "options_hi": [
+      "गोंड कला",
+      "पिथोरा चित्रकला",
+      "मांडना कला",
+      "छीपा शिल्प"
+    ],
+    "correct": "B",
+    "explanation_en": "Pema Fatya was a legendary master artist of Pithora painting, a ritualistic wall art form practiced by the Bhil and Rathwa tribes in the Jhabua region of Madhya Pradesh.",
+    "explanation_hi": "पेमा फत्या मध्य प्रदेश के झाबुआ क्षेत्र की भील जनजाति की पारंपरिक अनुष्ठानिक भित्ति चित्रकला 'पिथोरा चित्रकला' के अंतरराष्ट्रीय ख्याति प्राप्त कलाकार थे।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835905"
+  },
+  {
+    "id": "MPPSC-Q-0007",
+    "unit": "Unit 1: MP History, Culture & Literature",
+    "topic": "MP History, Culture & Literature",
+    "subtopic": "Core Syllabus",
+    "difficulty": "DIFFICULT",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which of the following literary works was authored by the classical Sanskrit poet Bhavabhuti, who was associated with Padmavati (Pawaya) in MP?",
+    "question_hi": "मध्य प्रदेश के पद्मावती (पवाया) से संबंधित संस्कृत के महाकवि भवभूति द्वारा रचित ग्रंथ निम्नलिखित में से कौन सा है?",
+    "options_en": [
+      "Malavikagnimitram",
+      "Uttararamacharita",
+      "Kiratarjuniyam",
+      "Shishupala Vadha"
+    ],
+    "options_hi": [
+      "मालविकाग्निमित्रम्",
+      "उत्तररामचरितम्",
+      "किरातार्जुनीयम्",
+      "शिशुपाल वधम्"
+    ],
+    "correct": "B",
+    "explanation_en": "Bhavabhuti, revered as an equal to Kalidasa, authored Uttararamacharita, Mahaviracharita, and Malatimadhava. He received his education and patronage in Padmavati (modern Pawaya near Gwalior).",
+    "explanation_hi": "महाकवि भवभूति ने 'उत्तररामचरितम्', 'महावीरचरितम्' तथा 'मालतीमाधवम्' की रचना की। वे पद्मावती (ग्वालियर के निकट पवाया) से गहरे जुड़े हुए थे।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835909"
+  },
+  {
+    "id": "MPPSC-Q-0008",
+    "unit": "Unit 1: MP History, Culture & Literature",
+    "topic": "MP History, Culture & Literature",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2019,
+      "paper": "GS Paper 1",
+      "notes": "Khajuraho temples Chandela dynasty"
+    },
+    "question_en": "The world-famous temples of Khajuraho were built between 950 CE and 1050 CE by rulers of which dynasty?",
+    "question_hi": "खजुराहो के विश्व प्रसिद्ध मंदिरों का निर्माण 950 ई. से 1050 ई. के मध्य किस राजवंश के शासकों द्वारा कराया गया था?",
+    "options_en": [
+      "Kalachuri Dynasty",
+      "Chandela Dynasty",
+      "Tomar Dynasty",
+      "Parmara Dynasty"
+    ],
+    "options_hi": [
+      "कलचुरी राजवंश",
+      "चंदेल राजवंश",
+      "तोमर राजवंश",
+      "परमार राजवंश"
+    ],
+    "correct": "B",
+    "explanation_en": "The Khajuraho Group of Monuments, a UNESCO World Heritage Site since 1986, was built by the Chandela rulers (notably Dhanga, Yashovarman, Vidyadhara).",
+    "explanation_hi": "खजुराहो के मंदिरों का निर्माण चंदेल शासकों (यशोवर्मन, धंगदेव, विद्याधर आदि) द्वारा 10वीं-11वीं शताब्दी में कराया गया था। यह 1986 से यूनेस्को विश्व धरोहर स्थल है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835913"
+  },
+  {
+    "id": "MPPSC-Q-0009",
+    "unit": "Unit 1: MP History, Culture & Literature",
+    "topic": "MP History, Culture & Literature",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which tribal revolutionary of the 1857 Revolt in Madhya Pradesh is remembered as the 'Robin Hood of Nimar'?",
+    "question_hi": "मध्य प्रदेश में 1857 के विद्रोह के किस जनजातीय क्रांतिकारी को 'निमाड़ का रॉबिनहुड' कहा जाता है?",
+    "options_en": [
+      "Bheema Nayak",
+      "Tantia Bhil",
+      "Shankar Shah",
+      "Ganjan Singh Korku"
+    ],
+    "options_hi": [
+      "भीमा नायक",
+      "टंट्या भील",
+      "शंकर शाह",
+      "गंजन सिंह कोरकू"
+    ],
+    "correct": "A",
+    "explanation_en": "Bheema Nayak led the tribal resistance in the Nimar region (Barwani/Khargone) against the British during the 1857 revolt and is known as the 'Robin Hood of Nimar'. (Tantia Bhil is referred to as the Robin Hood of India).",
+    "explanation_hi": "भीमा नायक ने 1857 की क्रांति में बड़वानी/निमाड़ क्षेत्र में अंग्रेजों के विरुद्ध भील समुदाय का नेतृत्व किया और उन्हें 'निमाड़ का रॉबिनहुड' कहा जाता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835917"
+  },
+  {
+    "id": "MPPSC-Q-0010",
+    "unit": "Unit 1: MP History, Culture & Literature",
+    "topic": "MP History, Culture & Literature",
+    "subtopic": "Core Syllabus",
+    "difficulty": "DIFFICULT",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2023,
+      "paper": "GS Paper 1",
+      "notes": "Heliodorus pillar at Vidisha Shunga ruler Bhagabhadra"
+    },
+    "question_en": "The famous Heliodorus Pillar (Garuda Pillar) located at Besnagar (Vidisha) was erected during the reign of which Shunga ruler?",
+    "question_hi": "विदिशा (बेसनगर) स्थित प्रसिद्ध हेलियोडोरस स्तंभ (गरुड़ स्तंभ) किस शुंग शासक के शासनकाल में स्थापित किया गया था?",
+    "options_en": [
+      "Pushyamitra Shunga",
+      "Agnimitra",
+      "Bhagabhadra",
+      "Devabhuti"
+    ],
+    "options_hi": [
+      "पुष्यमित्र शुंग",
+      "अग्निमित्र",
+      "भागभद्र",
+      "देवभूति"
+    ],
+    "correct": "C",
+    "explanation_en": "Heliodorus, the Greek ambassador sent by Indo-Greek King Antialcidas, visited the court of Shunga King Kasiputra Bhagabhadra around 113 BCE and dedicated the Garuda pillar to Lord Vasudeva.",
+    "explanation_hi": "इंडो-ग्रीक राजा एंटियालकिडास के यूनानी राजदूत हेलियोडोरस ने शुंग राजा भागभद्र के 14वें शासन वर्ष में विदिशा आकर भागवत धर्म अपनाया और भगवान वासुदेव के सम्मान में गरुड़ स्तंभ स्थापित किया।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835921"
+  },
+  {
+    "id": "MPPSC-Q-0011",
+    "unit": "Unit 2: History of India",
+    "topic": "History of India",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The unique dockyard basin structure belonging to the Harappan Civilization was excavated at which archaeological site?",
+    "question_hi": "हड़प्पा सभ्यता से संबंधित विशिष्ट जहाजी गोदी (गोदीबाड़ा/डॉकयार्ड) का उत्खनन किस पुरातात्विक स्थल पर किया गया था?",
+    "options_en": [
+      "Kalibangan",
+      "Lothal",
+      "Banawali",
+      "Rakhigarhi"
+    ],
+    "options_hi": [
+      "कालीबंगा",
+      "लोथल",
+      "बनावली",
+      "राखीगढ़ी"
+    ],
+    "correct": "B",
+    "explanation_en": "Lothal in Gujarat (excavated by S.R. Rao in 1957) on the Bhogava river had a massive brick basin identified as an ancient tidal dockyard, proving its role as an active Harappan port city.",
+    "explanation_hi": "गुजरात में भोगावा नदी के तट पर स्थित लोथल (एस.आर. राव द्वारा उत्खनित) में ईंटों से निर्मित एक विशाल गोदीबाड़ा (डॉकयार्ड) मिला है, जो हड़प्पाकालीन समुद्री व्यापार का प्रमुख केंद्र था।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835924"
+  },
+  {
+    "id": "MPPSC-Q-0012",
+    "unit": "Unit 2: History of India",
+    "topic": "History of India",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2022,
+      "paper": "GS Paper 1",
+      "notes": "Avanti southern capital Mahishmati"
+    },
+    "question_en": "During the 6th century BCE, the Avanti Mahajanapada had two capitals. Which city served as the southern capital of Avanti?",
+    "question_hi": "छठी शताब्दी ईसा पूर्व में अवंति महाजनपद की दो राजधानियां थीं। अवंति की दक्षिणी राजधानी कौन सा नगर था?",
+    "options_en": [
+      "Ujjayini",
+      "Mahishmati",
+      "Tripuri",
+      "Kaushambi"
+    ],
+    "options_hi": [
+      "उज्जयिनी",
+      "माहिष्मती",
+      "त्रिपुरी",
+      "कौशाम्बी"
+    ],
+    "correct": "B",
+    "explanation_en": "Avanti was divided into two parts by the Vetravati river. The northern capital was Ujjayini (modern Ujjain) and the southern capital was Mahishmati (identified with Maheshwar on the Narmada).",
+    "explanation_hi": "अवंति महाजनपद वेत्रवती नदी द्वारा दो भागों में विभक्त था। उत्तरी अवंति की राजधानी उज्जयिनी और दक्षिणी अवंति की राजधानी माहिष्मती (महेश्वर) थी।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835928"
+  },
+  {
+    "id": "MPPSC-Q-0013",
+    "unit": "Unit 2: History of India",
+    "topic": "History of India",
+    "subtopic": "Core Syllabus",
+    "difficulty": "DIFFICULT",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2021,
+      "paper": "GS Paper 1",
+      "notes": "Ashoka name in Gujarra Datia edict"
+    },
+    "question_en": "In which Minor Rock Edict of Emperor Ashoka found in Madhya Pradesh does the name 'Asoka' explicitly appear alongside 'Devanampiya'?",
+    "question_hi": "मध्य प्रदेश में खोजे गए सम्राट अशोक के किस लघु शिलालेख में 'देवानांपिय' के साथ स्पष्ट रूप से 'अशोक' नाम का उल्लेख मिलता है?",
+    "options_en": [
+      "Rupnath (Katni)",
+      "Gujarra (Datia)",
+      "Panguraria (Sehore)",
+      "Sanchi (Raisen)"
+    ],
+    "options_hi": [
+      "रूपनाथ (कटनी)",
+      "गुर्जर्रा (दतिया)",
+      "पानगुराड़िया (सीहोर)",
+      "सांची (रायसेन)"
+    ],
+    "correct": "B",
+    "explanation_en": "The Gujarra Minor Rock Edict in Datia district of Madhya Pradesh mentions Ashoka by his personal name: 'Devanampiya Piyadasi Asokasa'. (Maski, Nittur, Udegolam in Karnataka also contain his name).",
+    "explanation_hi": "मध्य प्रदेश के दतिया जिले में स्थित 'गुर्जर्रा' लघु शिलालेख में सम्राट का नाम स्पष्ट रूप से 'देवानांपिय पियदसि असोकस' अंकित है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835931"
+  },
+  {
+    "id": "MPPSC-Q-0014",
+    "unit": "Unit 2: History of India",
+    "topic": "History of India",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The famous Chinese Buddhist pilgrim Faxian (Fa-Hien) visited India during the reign of which Gupta emperor?",
+    "question_hi": "प्रसिद्ध चीनी बौद्ध यात्री फाह्यान (फा-शियान) ने किस गुप्त सम्राट के शासनकाल में भारत की यात्रा की थी?",
+    "options_en": [
+      "Samudragupta",
+      "Chandragupta II (Vikramaditya)",
+      "Kumaragupta I",
+      "Skandagupta"
+    ],
+    "options_hi": [
+      "समुद्रगुप्त",
+      "चंद्रगुप्त द्वितीय (विक्रमादित्य)",
+      "कुमारगुप्त प्रथम",
+      "स्कंदगुप्त"
+    ],
+    "correct": "B",
+    "explanation_en": "Fa-Hien visited India between 399 and 414 CE during the reign of Chandragupta II Vikramaditya to collect authentic Buddhist monastic texts.",
+    "explanation_hi": "चीनी यात्री फाह्यान ने चंद्रगुप्त द्वितीय 'विक्रमादित्य' के शासनकाल (399-414 ई.) में बौद्ध धर्मग्रंथों के संकलन हेतु भारत की यात्रा की थी।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835935"
+  },
+  {
+    "id": "MPPSC-Q-0015",
+    "unit": "Unit 2: History of India",
+    "topic": "History of India",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which Delhi Sultan established the department called 'Diwan-i-Riyasat' and appointed 'Shahna-i-Mandi' to implement strict market control regulations?",
+    "question_hi": "किस दिल्ली सुल्तान ने बाजार नियंत्रण नीतियों को सख्ती से लागू करने हेतु 'दीवान-ए-रियासत' विभाग की स्थापना की और 'शहना-ए-मंडी' नियुक्त किए?",
+    "options_en": [
+      "Balban",
+      "Alauddin Khalji",
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Tughlaq"
+    ],
+    "options_hi": [
+      "बलबन",
+      "अलाउद्दीन खिलजी",
+      "मुहम्मद बिन तुगलक",
+      "फिरोज शाह तुगलक"
+    ],
+    "correct": "B",
+    "explanation_en": "Alauddin Khalji introduced rigorous price control and market regulations (fixing prices of foodgrains, cloth, horses) supervised by the Diwan-i-Riyasat and market inspectors called Shahna-i-Mandi.",
+    "explanation_hi": "अलाउद्दीन खिलजी ने मूल्य नियंत्रण एवं राशनिंग व्यवस्था लागू करने के लिए 'दीवान-ए-रियासत' और अनाज मंडियों में अधीक्षक के रूप में 'शहना-ए-मंडी' की नियुक्ति की थी।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835939"
+  },
+  {
+    "id": "MPPSC-Q-0016",
+    "unit": "Unit 2: History of India",
+    "topic": "History of India",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Under the Mughal administrative system, the dual ranking mechanism of 'Zat' and 'Sawar' was an integral feature of which system?",
+    "question_hi": "मुगल प्रशासनिक व्यवस्था के अंतर्गत 'जात' और 'सवार' की दोहरी पदक्रम व्यवस्था किस प्रणाली की प्रमुख विशेषता थी?",
+    "options_en": [
+      "Jagirdari System",
+      "Mansabdari System",
+      "Iqta System",
+      "Dahsala System"
+    ],
+    "options_hi": [
+      "जागीरदारी व्यवस्था",
+      "मनसबदारी व्यवस्था",
+      "इक्ता व्यवस्था",
+      "दहसाला व्यवस्था"
+    ],
+    "correct": "B",
+    "explanation_en": "Akbar formalized the Mansabdari system around 1571 CE. 'Zat' indicated personal rank and salary status, while 'Sawar' indicated the contingent of cavalrymen the noble was obligated to maintain.",
+    "explanation_hi": "अकबर द्वारा शुरू की गई मनसबदारी व्यवस्था में 'जात' मनसबदार की व्यक्तिगत प्रतिष्ठा और वेतन का सूचक था, जबकि 'सवार' उसके अधीन रखे जाने वाले घुड़सवार सैनिकों की संख्या तय करता था।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835943"
+  },
+  {
+    "id": "MPPSC-Q-0017",
+    "unit": "Unit 2: History of India",
+    "topic": "History of India",
+    "subtopic": "Core Syllabus",
+    "difficulty": "DIFFICULT",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The famous Advaita Vedanta philosophy was propagated by Adi Shankaracharya. Which of the following is NOT one of the four cardinal Amnaya mathas established by him?",
+    "question_hi": "अद्वैत वेदांत दर्शन का प्रतिपादन आदि शंकराचार्य द्वारा किया गया था। उनके द्वारा स्थापित चार प्रमुख आम्नाय पीठों (मठों) में निम्नलिखित में से कौन सा शामिल नहीं है?",
+    "options_en": [
+      "Jyotirmath (Badrinath)",
+      "Govardhana Matha (Puri)",
+      "Kamakshi Matha (Kanchipuram)",
+      "Sharada Peetham (Sringeri)"
+    ],
+    "options_hi": [
+      "ज्योतिर्मठ (बद्रीनाथ)",
+      "गोवर्धन मठ (पुरी)",
+      "कामाक्षी मठ (कांचीपुरम)",
+      "शारदा पीठ (शृंगेरी)"
+    ],
+    "correct": "C",
+    "explanation_en": "Adi Shankara established four primary Amnaya mathas: Sringeri (South, Karnataka), Govardhana Matha at Puri (East, Odisha), Kalika Matha at Dwarka (West, Gujarat), and Jyotirmath at Badrinath (North, Uttarakhand).",
+    "explanation_hi": "आदि शंकराचार्य ने चारों दिशाओं में चार पीठ स्थापित किए: शृंगेरी शारदा पीठ (दक्षिण), गोवर्धन पीठ पुरी (पूर्व), द्वारका शारदा पीठ (पश्चिम), और ज्योतिर्मठ बद्रीनाथ (उत्तर)। कांची कामाक्षी एक स्वतंत्र पीठ है, चार मुख्य आम्नाय मठों में नहीं आता।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835947"
+  },
+  {
+    "id": "MPPSC-Q-0018",
+    "unit": "Unit 2: History of India",
+    "topic": "History of India",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "By which British enactment was the complete commercial trading monopoly of the English East India Company (including tea trade and trade with China) fully terminated?",
+    "question_hi": "किस ब्रिटिश अधिनियम द्वारा ईस्ट इंडिया कंपनी के संपूर्ण व्यापारिक एकाधिकार (चाय व्यापार और चीन के साथ व्यापार सहित) को पूर्णतः समाप्त कर दिया गया?",
+    "options_en": [
+      "Charter Act of 1813",
+      "Charter Act of 1833",
+      "Charter Act of 1853",
+      "Government of India Act 1858"
+    ],
+    "options_hi": [
+      "चार्टर एक्ट 1813",
+      "चार्टर एक्ट 1833",
+      "चार्टर एक्ट 1853",
+      "भारत सरकार अधिनियम 1858"
+    ],
+    "correct": "B",
+    "explanation_en": "The Charter Act of 1813 abolished the Company's trade monopoly except in tea and trade with China. The Charter Act of 1833 fully abolished all remaining commercial privileges, turning it purely into an administrative body.",
+    "explanation_hi": "1813 के चार्टर एक्ट ने चाय और चीन के व्यापार को छोड़कर कंपनी का एकाधिकार समाप्त किया था, लेकिन 1833 के चार्टर एक्ट ने चाय एवं चीन व्यापार के एकाधिकार को भी समाप्त कर कंपनी को पूर्णतः प्रशासनिक संस्था बना दिया।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835950"
+  },
+  {
+    "id": "MPPSC-Q-0019",
+    "unit": "Unit 2: History of India",
+    "topic": "History of India",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Mahatma Gandhi's first civil disobedience movement in India, the Champaran Satyagraha (1917), was launched against which exploitative practice?",
+    "question_hi": "महात्मा गांधी का भारत में पहला सविनय अवज्ञा आंदोलन, चंपारण सत्याग्रह (1917), किस शोषक प्रथा के विरुद्ध आरंभ किया गया था?",
+    "options_en": [
+      "Tinkathia System of Indigo farming",
+      "Ryotwari settlement tax hike",
+      "Mahalwari system",
+      "Salt monopoly tax"
+    ],
+    "options_hi": [
+      "नील की खेती की तिनकठिया प्रणाली",
+      "रैयतवाड़ी कर वृद्धि",
+      "महलवाड़ी व्यवस्था",
+      "नमक एकाधिकार कर"
+    ],
+    "correct": "A",
+    "explanation_en": "At Champaran (Bihar) in 1917, European planters forced farmers to cultivate indigo on 3/20th of their total land holding under the Tinkathia system. Raj Kumar Shukla persuaded Gandhi to investigate the grievances.",
+    "explanation_hi": "चंपारण (बिहार) में यूरोपीय बागान मालिकों द्वारा किसानों को अपनी कुल भूमि के 3/20वें भाग पर नील की खेती करने हेतु बाध्य किया जाता था, जिसे 'तिनकठिया प्रणाली' कहा जाता था।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835954"
+  },
+  {
+    "id": "MPPSC-Q-0020",
+    "unit": "Unit 2: History of India",
+    "topic": "History of India",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2020,
+      "paper": "GS Paper 1",
+      "notes": "Tripuri Congress session 1939 near Jabalpur"
+    },
+    "question_en": "The historic 52nd session of the Indian National Congress (1939), where Subhas Chandra Bose defeated Pattabhi Sitaramayya for Congress Presidency, was held at Tripuri near which city in MP?",
+    "question_hi": "भारतीय राष्ट्रीय कांग्रेस का ऐतिहासिक 52वां अधिवेशन (1939), जिसमें सुभाष चंद्र बोस ने पट्टाभि सीतारमैया को हराकर अध्यक्ष पद जीता था, मध्य प्रदेश में किस शहर के निकट त्रिपुरी में हुआ था?",
+    "options_en": [
+      "Indore",
+      "Jabalpur",
+      "Bhopal",
+      "Gwalior"
+    ],
+    "options_hi": [
+      "इंदौर",
+      "जबलपुर",
+      "भोपाल",
+      "ग्वालियर"
+    ],
+    "correct": "B",
+    "explanation_en": "The Tripuri Session of 1939 took place at Tripuri (Tevar) near Jabalpur, Madhya Pradesh. Netaji Subhas Chandra Bose won the presidency against Dr. Pattabhi Sitaramayya (who was supported by Mahatma Gandhi).",
+    "explanation_hi": "1939 का कांग्रेस अधिवेशन मध्य प्रदेश के जबलपुर के समीप त्रिपुरी (तेवर) में आयोजित हुआ था। इस चुनाव में नेताजी सुभाष चंद्र बोस ने गांधीजी समर्थित उम्मीदवार पट्टाभि सीतारमैया को पराजित किया था।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835957"
+  },
+  {
+    "id": "MPPSC-Q-0021",
+    "unit": "Unit 3: Geography of MP",
+    "topic": "Geography of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "EASY",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2022,
+      "paper": "GS Paper 1",
+      "notes": "Dhupgarh highest peak in Mahadeo hills"
+    },
+    "question_en": "The highest peak of Madhya Pradesh, Dhupgarh (1,350 metres), is situated in which mountain range?",
+    "question_hi": "मध्य प्रदेश की सबसे ऊंची चोटी धूपगढ़ (1,350 मीटर) किस पर्वत श्रेणी में स्थित है?",
+    "options_en": [
+      "Vindhyachal Range",
+      "Mahadeo Hills (Satpura Range)",
+      "Maikal Range",
+      "Kaimur Hills"
+    ],
+    "options_hi": [
+      "विंध्याचल श्रेणी",
+      "महादेव पहाड़ियां (सतपुड़ा श्रेणी)",
+      "मैकल श्रेणी",
+      "कैमूर पहाड़ियां"
+    ],
+    "correct": "B",
+    "explanation_en": "Mount Dhupgarh (1,350 m / 1,352 m) is the highest elevation in Madhya Pradesh and the entire Satpura range, located in the Mahadeo Hills near Pachmarhi (Narmadapuram district).",
+    "explanation_hi": "धूपगढ़ (1350 मीटर) मध्य प्रदेश और सतपुड़ा पर्वत श्रेणी की सर्वोच्च चोटी है, जो नर्मदापुरम जिले के पचमढ़ी के समीप महादेव पहाड़ियों में स्थित है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835961"
+  },
+  {
+    "id": "MPPSC-Q-0022",
+    "unit": "Unit 3: Geography of MP",
+    "topic": "Geography of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2021,
+      "paper": "GS Paper 1",
+      "notes": "Narmada length in MP 1077 km"
+    },
+    "question_en": "Out of the total length of 1,312 km of the Narmada River, what is its exact length flowing within the state of Madhya Pradesh?",
+    "question_hi": "नर्मदा नदी की कुल 1,312 किमी की लंबाई में से मध्य प्रदेश राज्य के भीतर बहने वाली उसकी सटीक लंबाई कितनी है?",
+    "options_en": [
+      "1,024 km",
+      "1,077 km",
+      "1,115 km",
+      "985 km"
+    ],
+    "options_hi": [
+      "1,024 किमी",
+      "1,077 किमी",
+      "1,115 किमी",
+      "985 किमी"
+    ],
+    "correct": "B",
+    "explanation_en": "The Narmada originates at Amarkantak (Anuppur district) and flows 1,312 km into the Gulf of Khambhat. Its flow within Madhya Pradesh is 1,077 km (82.1% of its total course).",
+    "explanation_hi": "नर्मदा नदी अनूपपुर जिले के अमरकंटक से निकलती है और कुल 1,312 किमी बहती है। इसमें से 1,077 किमी की लंबाई मध्य प्रदेश राज्य में विस्तृत है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835964"
+  },
+  {
+    "id": "MPPSC-Q-0023",
+    "unit": "Unit 3: Geography of MP",
+    "topic": "Geography of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "EASY",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2019,
+      "paper": "GS Paper 1",
+      "notes": "Tropic of Cancer through 14 MP districts"
+    },
+    "question_en": "Through how many districts of Madhya Pradesh does the Tropic of Cancer (23.5° N) pass?",
+    "question_hi": "कर्क रेखा (23.5° उत्तरी अक्षांश) मध्य प्रदेश के कुल कितने जिलों से होकर गुजरती है?",
+    "options_en": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "options_hi": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "correct": "B",
+    "explanation_en": "The Tropic of Cancer passes through 14 districts of MP from West to East: Ratlam, Ujjain, Agar Malwa, Shajapur/Rajgarh, Sehore, Bhopal, Vidisha, Raisen, Sagar, Damoh, Katni, Jabalpur, Umaria, and Shahdol.",
+    "explanation_hi": "कर्क रेखा मध्य प्रदेश के 14 जिलों से होकर गुजरती है: रतलाम, उज्जैन, आगर-मालवा, राजगढ़, सीहोर, भोपाल, विदिशा, रायसेन, सागर, दमोह, कटनी, जबलपुर, उमरिया और शहडोल।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835968"
+  },
+  {
+    "id": "MPPSC-Q-0024",
+    "unit": "Unit 3: Geography of MP",
+    "topic": "Geography of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which geographical plateau of Madhya Pradesh is characterized predominantly by deep black soil derived from basaltic Deccan Trap lava?",
+    "question_hi": "मध्य प्रदेश का कौन सा भौगोलिक पठार मुख्य रूप से दक्कन ट्रैप के बेसाल्टिक लावे से निर्मित गहरी काली मिट्टी से आच्छादित है?",
+    "options_en": [
+      "Rewa-Panna Plateau",
+      "Malwa Plateau",
+      "Bundelkhand Plateau",
+      "Baghelkhand Plateau"
+    ],
+    "options_hi": [
+      "रीवा-पन्ना का पठार",
+      "मालवा का पठार",
+      "बुंदेलखंड का पठार",
+      "बघेलखंड का पठार"
+    ],
+    "correct": "B",
+    "explanation_en": "The Malwa Plateau is an extensive volcanic plateau formed from basaltic Deccan traps. Weathering of this basalt creates moisture-retentive black cotton soil (Regur), making it highly fertile.",
+    "explanation_hi": "मालवा का पठार दक्कन ट्रैप की बेसाल्टिक लावा चट्टानों के अपक्षय से निर्मित है, जिसके कारण यहां उपजाऊ काली (रेगुर) मिट्टी का सर्वाधिक विस्तार पाया जाता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835971"
+  },
+  {
+    "id": "MPPSC-Q-0025",
+    "unit": "Unit 3: Geography of MP",
+    "topic": "Geography of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "According to the India State of Forest Report (ISFR), which tree species occupies the largest forested area among commercial timber species in Madhya Pradesh?",
+    "question_hi": "भारतीय वन स्थिति रिपोर्ट (ISFR) के अनुसार मध्य प्रदेश के वनों में व्यापारिक इमारती लकड़ी प्रजातियों में सर्वाधिक क्षेत्र किस वृक्ष का है?",
+    "options_en": [
+      "Sal (Shorea robusta)",
+      "Teak (Tectona grandis)",
+      "Bamboo (Dendrocalamus)",
+      "Tendu (Diospyros melanoxylon)"
+    ],
+    "options_hi": [
+      "साल (Shorea robusta)",
+      "सागौन (Tectona grandis)",
+      "बांस (Dendrocalamus)",
+      "तेंदू (Diospyros melanoxylon)"
+    ],
+    "correct": "B",
+    "explanation_en": "Teak (Sagwan) is the predominant tree species in Madhya Pradesh, covering approximately 17.8% of the recorded forest area, mainly in Hoshangabad (Bori Reserve), Betul, and Chhindwara.",
+    "explanation_hi": "मध्य प्रदेश में इमारती वनों में सर्वाधिक विस्तार सागौन (लगभग 17.8%) का पाया जाता है। होशंगाबाद की बोरी घाटी सागौन के उत्कृष्ट वनों के लिए प्रसिद्ध है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835975"
+  },
+  {
+    "id": "MPPSC-Q-0026",
+    "unit": "Unit 3: Geography of MP",
+    "topic": "Geography of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Under 'Project Cheetah', African cheetahs brought from Namibia and South Africa were reintroduced in which national park of Madhya Pradesh?",
+    "question_hi": "'प्रोजेक्ट चीता' के अंतर्गत नामीबिया और दक्षिण अफ्रीका से लाए गए अफ्रीकी चीतों को मध्य प्रदेश के किस राष्ट्रीय उद्यान में पुनर्वासित किया गया?",
+    "options_en": [
+      "Kanha National Park",
+      "Kuno National Park",
+      "Bandhavgarh National Park",
+      "Madhav National Park"
+    ],
+    "options_hi": [
+      "कान्हा राष्ट्रीय उद्यान",
+      "कूनो राष्ट्रीय उद्यान",
+      "बांधवगढ़ राष्ट्रीय उद्यान",
+      "माधव राष्ट्रीय उद्यान"
+    ],
+    "correct": "B",
+    "explanation_en": "Kuno National Park located in Sheopur district of Madhya Pradesh was selected for India's Cheetah Reintroduction Project, where the first batch arrived in September 2022.",
+    "explanation_hi": "मध्य प्रदेश के श्योपुर जिले में स्थित कूनो राष्ट्रीय उद्यान में सितंबर 2022 में भारत का ऐतिहासिक 'प्रोजेक्ट चीता' शुरू किया गया।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835979"
+  },
+  {
+    "id": "MPPSC-Q-0027",
+    "unit": "Unit 3: Geography of MP",
+    "topic": "Geography of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2022,
+      "paper": "GS Paper 1",
+      "notes": "Malanjkhand Balaghat copper mine"
+    },
+    "question_en": "The Malanjkhand belt in Balaghat district of Madhya Pradesh is India's largest opencast mine for which valuable mineral?",
+    "question_hi": "मध्य प्रदेश के बालाघाट जिले का मलांजखंड क्षेत्र किस मूल्यवान खनिज के लिए भारत की सबसे बड़ी खुली खदान (ओपनकास्ट माइन) है?",
+    "options_en": [
+      "Manganese",
+      "Copper Ore",
+      "Bauxite",
+      "Iron Ore"
+    ],
+    "options_hi": [
+      "मैंगनीज",
+      "तांबा अयस्क (Copper)",
+      "बॉक्साइट",
+      "लौह अयस्क"
+    ],
+    "correct": "B",
+    "explanation_en": "Malanjkhand in Balaghat district contains approximately 50% of India's total copper ore reserves and is operated by Hindustan Copper Limited (HCL). Note: Bharveli in Balaghat is famous for Manganese.",
+    "explanation_hi": "बालाघाट जिले का मलांजखंड भारत का सबसे बड़ा तांबा उत्पादक क्षेत्र है जहां हिंदुस्तान कॉपर लिमिटेड द्वारा तांबे का खनन किया जाता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835983"
+  },
+  {
+    "id": "MPPSC-Q-0028",
+    "unit": "Unit 3: Geography of MP",
+    "topic": "Geography of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2020,
+      "paper": "GS Paper 1",
+      "notes": "Bargi Dam Rani Avantibai Sagar on Narmada"
+    },
+    "question_en": "The Bargi Dam, also known as Rani Avantibai Sagar Project, is built across which river near Jabalpur?",
+    "question_hi": "बरगी बांध, जिसे रानी अवंतीबाई सागर परियोजना के नाम से भी जाना जाता है, जबलपुर के निकट किस नदी पर निर्मित है?",
+    "options_en": [
+      "Chambal",
+      "Betwa",
+      "Narmada",
+      "Son"
+    ],
+    "options_hi": [
+      "चंबल",
+      "बेतवा",
+      "नर्मदा",
+      "सोन"
+    ],
+    "correct": "C",
+    "explanation_en": "Bargi Dam is one of the first major multi-purpose dams constructed on the Narmada River near Bargi village in Jabalpur district.",
+    "explanation_hi": "रानी अवंतीबाई सागर (बरगी बांध) जबलपुर जिले में नर्मदा नदी पर निर्मित पहली प्रमुख बहुउद्देशीय नदी घाटी परियोजना है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835986"
+  },
+  {
+    "id": "MPPSC-Q-0029",
+    "unit": "Unit 3: Geography of MP",
+    "topic": "Geography of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which district of Madhya Pradesh has the distinction of having the highest sex ratio according to Census 2011?",
+    "question_hi": "वर्ष 2011 की जनगणना के अनुसार मध्य प्रदेश के किस जिले में सर्वाधिक लिंगानुपात दर्ज किया गया है?",
+    "options_en": [
+      "Alirajpur",
+      "Balaghat",
+      "Dindori",
+      "Mandla"
+    ],
+    "options_hi": [
+      "अलीराजपुर",
+      "बालाघाट",
+      "डिंडोरी",
+      "मंडला"
+    ],
+    "correct": "B",
+    "explanation_en": "According to Census 2011, Balaghat has the highest sex ratio in Madhya Pradesh at 1,021 females per 1,000 males, followed by Alirajpur (1,011). Overall MP sex ratio is 931.",
+    "explanation_hi": "जनगणना 2011 के अनुसार मध्य प्रदेश में सर्वाधिक लिंगानुपात बालाघाट जिले (1021 महिला प्रति 1000 पुरुष) में है। प्रदेश का औसत लिंगानुपात 931 है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835990"
+  },
+  {
+    "id": "MPPSC-Q-0030",
+    "unit": "Unit 3: Geography of MP",
+    "topic": "Geography of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which river of Madhya Pradesh causes severe gully erosion and creates the famous 'Badlands' (Ravines) in the northern plateau?",
+    "question_hi": "मध्य प्रदेश की कौन सी नदी मध्य भारत के पठार में अत्यधिक अवनालिका अपरदन (Gully erosion) कर प्रसिद्ध बीहड़ों (Ravines) का निर्माण करती है?",
+    "options_en": [
+      "Kali Sindh",
+      "Chambal",
+      "Ken",
+      "Sindh"
+    ],
+    "options_hi": [
+      "काली सिंध",
+      "चंबल",
+      "केन",
+      "सिंध"
+    ],
+    "correct": "B",
+    "explanation_en": "The Chambal River causes catastrophic gully erosion in the alluvial soils of Morena, Bhind, and Sheopur districts, carving out extensive ravines (badland topography).",
+    "explanation_hi": "चंबल नदी श्योपुर, मुरैना एवं भिंड जिलों की जलोढ़ मृदा में तीव्र अवनालिका अपरदन (गली इरोज़न) करके गहरे बीहड़ों और खड्डों का निर्माण करती है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835993"
+  },
+  {
+    "id": "MPPSC-Q-0031",
+    "unit": "Unit 4: Geography of India & World",
+    "topic": "Geography of India & World",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "In the Great Northern Plains of India, the narrow belt of pebbles deposited by Himalayan rivers where streams disappear underground is called:",
+    "question_hi": "भारत के विशाल उत्तरी मैदान में हिमालयी नदियों द्वारा निक्षेपित कंकड़-पत्थरों की संकरी पट्टी, जहां नदियां भूमिगत होकर विलुप्त हो जाती हैं, क्या कहलाती है?",
+    "options_en": [
+      "Bhangar",
+      "Terai",
+      "Bhabhar",
+      "Khadar"
+    ],
+    "options_hi": [
+      "भांगर",
+      "तराई",
+      "भाबर",
+      "खादर"
+    ],
+    "correct": "C",
+    "explanation_en": "The Bhabhar belt (8-10 km wide along the Shivalik foothills) consists of coarse gravels and boulders where mountain streams sink underground. They re-emerge further south in the marshy Terai tract.",
+    "explanation_hi": "शिवालिक के गिरिपाद में 8 से 10 किमी चौड़ी कंकड़-पत्थरों से युक्त पट्टी को 'भाबर' कहते हैं। यहां सरिताएं भूमिगत हो जाती हैं और दक्षिण में 'तराई' क्षेत्र में पुनः प्रकट होती हैं।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.835997"
+  },
+  {
+    "id": "MPPSC-Q-0032",
+    "unit": "Unit 4: Geography of India & World",
+    "topic": "Geography of India & World",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which of the following Indian rivers flows through a rift valley between the Vindhya and Satpura mountain ranges into the Arabian Sea?",
+    "question_hi": "निम्नलिखित में से कौन सी भारतीय नदी विंध्य और सतपुड़ा पर्वत श्रेणियों के मध्य भ्रंश घाटी (Rift Valley) से होकर अरब सागर में गिरती है?",
+    "options_en": [
+      "Godavari",
+      "Mahanadi",
+      "Narmada",
+      "Krishna"
+    ],
+    "options_hi": [
+      "गोदावरी",
+      "महानदी",
+      "नर्मदा",
+      "कृष्णा"
+    ],
+    "correct": "C",
+    "explanation_en": "The Narmada flows westward in a tectonic rift valley bounded by the Vindhyas to the north and the Satpuras to the south, draining into the Gulf of Khambhat (Arabian Sea).",
+    "explanation_hi": "नर्मदा नदी उत्तर में विंध्याचल और दक्षिण में सतपुड़ा पर्वत के मध्य भ्रंश घाटी (रिफ्ट वैली) में पश्चिम दिशा की ओर बहते हुए खंभात की खाड़ी (अरब सागर) में समाहित होती है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836000"
+  },
+  {
+    "id": "MPPSC-Q-0033",
+    "unit": "Unit 4: Geography of India & World",
+    "topic": "Geography of India & World",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Winter rainfall in northwestern India (Punjab, Haryana, and western UP) is predominantly caused by which meteorological phenomenon?",
+    "question_hi": "उत्तर-पश्चिमी भारत (पंजाब, हरियाणा और पश्चिमी उत्तर प्रदेश) में शीतकालीन वर्षा मुख्यतः किस मौसम संबंधी परिघटना के कारण होती है?",
+    "options_en": [
+      "Southwest Monsoon",
+      "Western Disturbances",
+      "Tropical Cyclones",
+      "Retreating Monsoon"
+    ],
+    "options_hi": [
+      "दक्षिण-पश्चिम मानसून",
+      "पश्चिमी विक्षोभ (Western Disturbances)",
+      "उष्णकटिबंधीय चक्रवात",
+      "लौटता हुआ मानसून"
+    ],
+    "correct": "B",
+    "explanation_en": "Western Disturbances are extratropical storms originating in the Mediterranean region brought to northwest India by the subtropical westerly jet stream, crucial for Rabi crops (especially wheat).",
+    "explanation_hi": "भूमध्य सागर में उत्पन्न होने वाले पश्चिमी विक्षोभ उपोष्णकटिबंधीय पछुवा जेट स्ट्रीम द्वारा उत्तर-पश्चिम भारत में शीतकालीन वर्षा लाते हैं, जो रबी (विशेषकर गेहूं) की फसल के लिए अमृत मानी जाती है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836003"
+  },
+  {
+    "id": "MPPSC-Q-0034",
+    "unit": "Unit 4: Geography of India & World",
+    "topic": "Geography of India & World",
+    "subtopic": "Core Syllabus",
+    "difficulty": "DIFFICULT",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "More than 95% of India's coal reserves and metallurgical coking coal originate from rock strata belonging to which geological system?",
+    "question_hi": "भारत का 95% से अधिक कोयला भंडार और धातुशोधन योग्य कोकिंग कोल किस भूवैज्ञानिक क्रम की शैल परतों से प्राप्त होता है?",
+    "options_en": [
+      "Dharwar System",
+      "Gondwana System",
+      "Cuddapah System",
+      "Tertiary System"
+    ],
+    "options_hi": [
+      "धारवाड़ क्रम",
+      "गोंडवाना क्रम",
+      "कुडप्पा क्रम",
+      "टर्शियरी क्रम"
+    ],
+    "correct": "B",
+    "explanation_en": "The Gondwana coal fields (located along Damodar, Son, Mahanadi, Godavari river valleys) account for over 98% of India's total coal deposits and almost all coking coal.",
+    "explanation_hi": "दामोदर, सोन, महानदी और गोदावरी नदी घाटियों में विस्तृत गोंडवाना युगीन अवसादी चट्टानें भारत के 98% से अधिक कोयला भंडारों का स्रोत हैं।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836006"
+  },
+  {
+    "id": "MPPSC-Q-0035",
+    "unit": "Unit 4: Geography of India & World",
+    "topic": "Geography of India & World",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The atmospheric layer located immediately above the troposphere, containing the life-protecting Ozone layer (ozonosphere), is the:",
+    "question_hi": "क्षोभमंडल के ठीक ऊपर स्थित वायुमंडलीय परत, जिसमें जीवन रक्षक ओजोन परत पाई जाती है, क्या कहलाती है?",
+    "options_en": [
+      "Mesosphere",
+      "Stratosphere",
+      "Thermosphere",
+      "Exosphere"
+    ],
+    "options_hi": [
+      "मध्यमंडल (Mesosphere)",
+      "समतापमंडल (Stratosphere)",
+      "तापमंडल (Thermosphere)",
+      "बहिर्मंडल (Exosphere)"
+    ],
+    "correct": "B",
+    "explanation_en": "The Stratosphere extends from the tropopause to ~50 km. The ozone layer within it (between 15 and 35 km) absorbs harmful ultraviolet (UV-B) radiation from the Sun.",
+    "explanation_hi": "समतापमंडल (Stratosphere) लगभग 12 से 50 किमी की ऊंचाई तक विस्तृत है। इसमें उपस्थित ओजोन गैस सूर्य से आने वाली हानिकारक पराबैंगनी (UV) किरणों को अवशोषित करती है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836009"
+  },
+  {
+    "id": "MPPSC-Q-0036",
+    "unit": "Unit 4: Geography of India & World",
+    "topic": "Geography of India & World",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The 'Ring of Fire', known for frequent earthquakes and extensive volcanic eruptions, is situated along the basin of which ocean?",
+    "question_hi": "प्रायः आने वाले भूकंपों और ज्वालामुखी उद्गारों के लिए प्रसिद्ध 'रिंग ऑफ फायर' (अग्निवलय) किस महासागर के बेसिन में स्थित है?",
+    "options_en": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "options_hi": [
+      "अटलांटिक महासागर",
+      "हिंद महासागर",
+      "प्रशांत महासागर",
+      "आर्कटिक महासागर"
+    ],
+    "correct": "C",
+    "explanation_en": "The Pacific Ring of Fire is a 40,000-km horseshoe-shaped zone of convergent tectonic plate boundaries, hosting ~75% of Earth's volcanoes and 90% of all earthquakes.",
+    "explanation_hi": "प्रशांत महासागरीय प्लेट सीमाओं के चारों ओर फैला 'रिंग ऑफ फायर' (Circum-Pacific Belt) विश्व के 75% ज्वालामुखियों और 90% भूकंपों का केंद्र है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836014"
+  },
+  {
+    "id": "MPPSC-Q-0037",
+    "unit": "Unit 4: Geography of India & World",
+    "topic": "Geography of India & World",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which of the following is a cold ocean current flowing in the Atlantic Ocean?",
+    "question_hi": "अटलांटिक महासागर में प्रवाहित होने वाली शीतल (ठंडी) जलधारा निम्नलिखित में से कौन सी है?",
+    "options_en": [
+      "Gulf Stream",
+      "Kuroshio Current",
+      "Benguela Current",
+      "Agulhas Current"
+    ],
+    "options_hi": [
+      "गल्फ स्ट्रीम",
+      "क्यूरोशियो धारा",
+      "बेंगुएला धारा",
+      "अगुल्हास धारा"
+    ],
+    "correct": "C",
+    "explanation_en": "The Benguela Current is a cold, northward-flowing ocean current along the western coast of southern Africa in the South Atlantic Ocean. (Gulf Stream is warm; Kuroshio is Pacific warm; Agulhas is Indian warm).",
+    "explanation_hi": "बेंगुएला धारा दक्षिणी अटलांटिक महासागर में दक्षिण अफ्रीका के पश्चिमी तट के सहारे उत्तर दिशा में बहने वाली एक ठंडी जलधारा है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836017"
+  },
+  {
+    "id": "MPPSC-Q-0038",
+    "unit": "Unit 4: Geography of India & World",
+    "topic": "Geography of India & World",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The strategic Suez Canal connects which two major bodies of water?",
+    "question_hi": "रणनीतिक स्वेज नहर किन दो प्रमुख जल निकायों को आपस में जोड़ती है?",
+    "options_en": [
+      "Red Sea and Arabian Sea",
+      "Mediterranean Sea and Red Sea",
+      "Baltic Sea and North Sea",
+      "Black Sea and Aegean Sea"
+    ],
+    "options_hi": [
+      "लाल सागर और अरब सागर",
+      "भूमध्य सागर और लाल सागर",
+      "बाल्टिक सागर और उत्तरी सागर",
+      "काला सागर और एजियन सागर"
+    ],
+    "correct": "B",
+    "explanation_en": "Opened in 1869, the Suez Canal in Egypt connects the Mediterranean Sea to the Red Sea via the Isthmus of Suez, providing the shortest maritime route between Europe and Asia.",
+    "explanation_hi": "मिस्र में स्थित स्वेज नहर (1869 में खुली) भूमध्य सागर को लाल सागर से जोड़ती है, जिससे यूरोप और एशिया के मध्य का समुद्री मार्ग अत्यंत सुगम हो गया।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836020"
+  },
+  {
+    "id": "MPPSC-Q-0039",
+    "unit": "Unit 4: Geography of India & World",
+    "topic": "Geography of India & World",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which of the following wetland sites in Madhya Pradesh was declared as the state's very first Ramsar Site in 2002?",
+    "question_hi": "मध्य प्रदेश के निम्नलिखित में से किस आर्द्रभूमि (वेटलैंड) स्थल को वर्ष 2002 में राज्य का पहला रामसर स्थल घोषित किया गया था?",
+    "options_en": [
+      "Sirpur Lake",
+      "Yashwant Sagar",
+      "Sakhya Sagar",
+      "Bhoj Wetland"
+    ],
+    "options_hi": [
+      "सिरपुर झील",
+      "यशवंत सागर",
+      "सांख्य सागर",
+      "भोज आर्द्रभूमि (Bhoj Wetland)"
+    ],
+    "correct": "D",
+    "explanation_en": "Bhoj Wetland (comprising the Upper Lake and Lower Lake in Bhopal) was designated as Madhya Pradesh's first Ramsar site of international importance in 2002.",
+    "explanation_hi": "भोपाल स्थित भोज आर्द्रभूमि (बड़ा तालाब एवं छोटा तालाब) को वर्ष 2002 में मध्य प्रदेश का पहला अंतरराष्ट्रीय महत्व का रामसर स्थल घोषित किया गया था।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836025"
+  },
+  {
+    "id": "MPPSC-Q-0040",
+    "unit": "Unit 4: Geography of India & World",
+    "topic": "Geography of India & World",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which narrow maritime strait separates the Malay Peninsula from the Indonesian island of Sumatra, serving as one of the world's busiest shipping lanes?",
+    "question_hi": "कौन सा संकरा जलडमरूमध्य मलय प्रायद्वीप को इंडोनेशियाई द्वीप सुमात्रा से अलग करता है और विश्व के व्यस्ततम समुद्री मार्गों में से एक है?",
+    "options_en": [
+      "Strait of Hormuz",
+      "Strait of Malacca",
+      "Bering Strait",
+      "Bab-el-Mandeb"
+    ],
+    "options_hi": [
+      "होर्मुज जलडमरूमध्य",
+      "मलक्का जलडमरूमध्य",
+      "बेरिंग जलडमरूमध्य",
+      "बाब-अल-मंदेब"
+    ],
+    "correct": "B",
+    "explanation_en": "The Strait of Malacca connects the Andaman Sea (Indian Ocean) to the South China Sea (Pacific Ocean), separating Malaysia from Sumatra.",
+    "explanation_hi": "मलक्का जलडमरूमध्य मलय प्रायद्वीप और सुमात्रा के मध्य स्थित है, जो हिंद महासागर को प्रशांत महासागर से जोड़ने वाला विश्व का सर्वाधिक महत्वपूर्ण व्यापारिक जलमार्ग है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836028"
+  },
+  {
+    "id": "MPPSC-Q-0041",
+    "unit": "Unit 5: Constitutional & Economic System of MP",
+    "topic": "Constitutional & Economic System of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "EASY",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2021,
+      "paper": "GS Paper 1",
+      "notes": "First MP Governor Pattabhi Sitaramayya"
+    },
+    "question_en": "Who served as the very first Governor of the reorganized state of Madhya Pradesh upon its formation on 1st November 1956?",
+    "question_hi": "1 नवंबर 1956 को पुनर्गठित मध्य प्रदेश राज्य के गठन पर राज्य के प्रथम राज्यपाल कौन बने?",
+    "options_en": [
+      "Dr. B. Pattabhi Sitaramayya",
+      "Hari Vinayak Pataskar",
+      "K. C. Reddy",
+      "P. V. Dixit"
+    ],
+    "options_hi": [
+      "डॉ. बी. पट्टाभि सीतारमैया",
+      "हरि विनायक पाटस्कर",
+      "के. सी. रेड्डी",
+      "पी. वी. दीक्षित"
+    ],
+    "correct": "A",
+    "explanation_en": "Dr. Bhogaraju Pattabhi Sitaramayya served as the first Governor of Madhya Pradesh from 1 November 1956 to 13 June 1957.",
+    "explanation_hi": "डॉ. भोगराजू पट्टाभि सीतारमैया 1 नवंबर 1956 को मध्य प्रदेश के प्रथम राज्यपाल बने और 13 जून 1957 तक इस पद पर रहे।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836031"
+  },
+  {
+    "id": "MPPSC-Q-0042",
+    "unit": "Unit 5: Constitutional & Economic System of MP",
+    "topic": "Constitutional & Economic System of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "EASY",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2019,
+      "paper": "GS Paper 1",
+      "notes": "First MP Chief Minister Ravishankar Shukla"
+    },
+    "question_en": "Who was the first Chief Minister of Madhya Pradesh?",
+    "question_hi": "मध्य प्रदेश के प्रथम मुख्यमंत्री कौन थे?",
+    "options_en": [
+      "Pandit Ravishankar Shukla",
+      "Kailash Nath Katju",
+      "Bhagwantrao Mandloi",
+      "Dwarka Prasad Mishra"
+    ],
+    "options_hi": [
+      "पंडित रविशंकर शुक्ल",
+      "कैलाश नाथ काटजू",
+      "भगवंतराव मंडलोई",
+      "द्वारका प्रसाद मिश्र"
+    ],
+    "correct": "A",
+    "explanation_en": "Pandit Ravishankar Shukla was sworn in as the first Chief Minister of reorganized Madhya Pradesh on 1 November 1956.",
+    "explanation_hi": "पंडित रविशंकर शुक्ल 1 नवंबर 1956 को मध्य प्रदेश के पहले मुख्यमंत्री बने (कार्यकाल: 1 नवंबर 1956 से 31 दिसंबर 1956)।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836034"
+  },
+  {
+    "id": "MPPSC-Q-0043",
+    "unit": "Unit 5: Constitutional & Economic System of MP",
+    "topic": "Constitutional & Economic System of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The Principal Seat of the High Court of Madhya Pradesh is located at Jabalpur. In which year were its permanent benches established at Indore and Gwalior?",
+    "question_hi": "मध्य प्रदेश उच्च न्यायालय की प्रधान पीठ जबलपुर में स्थित है। इंदौर और ग्वालियर में इसकी स्थायी खंडपीठों की स्थापना किस वर्ष की गई थी?",
+    "options_en": [
+      "1956",
+      "1968",
+      "1972",
+      "1980"
+    ],
+    "options_hi": [
+      "1956",
+      "1968",
+      "1972",
+      "1980"
+    ],
+    "correct": "B",
+    "explanation_en": "In 1956, Jabalpur became the Principal Seat under the States Reorganisation Act. On 28 November 1968, permanent benches were formally notified and established at Indore and Gwalior.",
+    "explanation_hi": "1956 में जबलपुर में प्रधान पीठ स्थापित हुई तथा 28 नवंबर 1968 को राष्ट्रपति की अधिसूचना द्वारा इंदौर और ग्वालियर में स्थायी खंडपीठें स्थापित की गईं।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836038"
+  },
+  {
+    "id": "MPPSC-Q-0044",
+    "unit": "Unit 5: Constitutional & Economic System of MP",
+    "topic": "Constitutional & Economic System of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2023,
+      "paper": "GS Paper 1",
+      "notes": "MP Vidhan Sabha ST reserved seats 47"
+    },
+    "question_en": "Out of the 230 elected seats in the Madhya Pradesh Legislative Assembly (Vidhan Sabha), how many seats are reserved for Scheduled Tribes (ST)?",
+    "question_hi": "मध्य प्रदेश विधानसभा की कुल 230 निर्वाचित सीटों में से अनुसूचित जनजाति (ST) के लिए कितनी सीटें आरक्षित हैं?",
+    "options_en": [
+      "35",
+      "47",
+      "52",
+      "29"
+    ],
+    "options_hi": [
+      "35",
+      "47",
+      "52",
+      "29"
+    ],
+    "correct": "B",
+    "explanation_en": "In MP Vidhan Sabha (230 seats): 47 seats are reserved for Scheduled Tribes (ST) and 35 seats are reserved for Scheduled Castes (SC). (In Lok Sabha, MP has 29 seats: 6 ST, 4 SC).",
+    "explanation_hi": "मध्य प्रदेश विधानसभा में कुल 230 सीटों में से 47 सीटें अनुसूचित जनजाति (ST) तथा 35 सीटें अनुसूचित जाति (SC) के लिए आरक्षित हैं।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836042"
+  },
+  {
+    "id": "MPPSC-Q-0045",
+    "unit": "Unit 5: Constitutional & Economic System of MP",
+    "topic": "Constitutional & Economic System of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2022,
+      "paper": "GS Paper 1",
+      "notes": "MP first state for 73rd amendment Panchayati Raj 1993"
+    },
+    "question_en": "Madhya Pradesh has the distinction of being the first state in India to enact and conduct elections under the 73rd Constitutional Amendment Act through which legislation?",
+    "question_hi": "मध्य प्रदेश 73वें संविधान संशोधन के तहत त्रिस्तरीय पंचायती राज व्यवस्था को लागू करने और चुनाव कराने वाला भारत का पहला राज्य किस अधिनियम के माध्यम से बना?",
+    "options_en": [
+      "MP Panchayati Raj Act, 1990",
+      "MP Panchayat Raj Avam Gram Swaraj Adhiniyam, 1993",
+      "MP Rural Development Act, 1995",
+      "MP Local Governance Code, 1996"
+    ],
+    "options_hi": [
+      "म.प्र. पंचायती राज अधिनियम, 1990",
+      "म.प्र. पंचायत राज एवं ग्राम स्वराज अधिनियम, 1993",
+      "म.प्र. ग्रामीण विकास अधिनियम, 1995",
+      "म.प्र. स्थानीय शासन संहिता, 1996"
+    ],
+    "correct": "B",
+    "explanation_en": "Madhya Pradesh passed the MP Panchayati Raj Adhiniyam in December 1993 (enforced 25 January 1994), becoming the first Indian state to conduct three-tier panchayat elections under the 73rd Amendment in 1994.",
+    "explanation_hi": "मध्य प्रदेश ने 73वें संविधान संशोधन के अनुपालन में म.प्र. पंचायत राज अधिनियम 1993 पारित किया और 1994 में चुनाव कराकर इसे लागू करने वाला देश का पहला राज्य बना।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836046"
+  },
+  {
+    "id": "MPPSC-Q-0046",
+    "unit": "Unit 5: Constitutional & Economic System of MP",
+    "topic": "Constitutional & Economic System of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which city/industrial area of Madhya Pradesh is famously referred to as the 'Detroit of India' due to its massive automobile manufacturing cluster?",
+    "question_hi": "विशाल ऑटोमोबाइल निर्माण क्लस्टर के कारण मध्य प्रदेश का कौन सा औद्योगिक क्षेत्र 'भारत का डेट्रायट' कहलाता है?",
+    "options_en": [
+      "Mandi Deep (Raisen)",
+      "Pithampur (Dhar)",
+      "Malanpur (Bhind)",
+      "Pilukhedi (Rajgarh)"
+    ],
+    "options_hi": [
+      "मंडीदीप (रायसेन)",
+      "पीथमपुर (धार)",
+      "मालनपुर (भिंड)",
+      "पीलूखेड़ी (राजगढ़)"
+    ],
+    "correct": "B",
+    "explanation_en": "Pithampur in Dhar district houses major automobile manufacturers and ancillary industries, earning it the moniker 'Detroit of India' or 'Detroit of Madhya Pradesh'.",
+    "explanation_hi": "धार जिले में स्थित पीथमपुर औद्योगिक क्षेत्र ऑटोमोबाइल और विनिर्माण उद्योग का विशाल केंद्र होने के कारण 'भारत का डेट्रायट' कहलाता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836050"
+  },
+  {
+    "id": "MPPSC-Q-0047",
+    "unit": "Unit 5: Constitutional & Economic System of MP",
+    "topic": "Constitutional & Economic System of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The Bank Note Press (BNP) in Madhya Pradesh, responsible for printing Indian currency banknotes, is situated in which city?",
+    "question_hi": "भारतीय मुद्रा नोटों की छपाई के लिए जिम्मेदार 'बैंक नोट प्रेस' (BNP) मध्य प्रदेश के किस शहर में स्थित है?",
+    "options_en": [
+      "Hoshangabad",
+      "Dewas",
+      "Nepanagar",
+      "Indore"
+    ],
+    "options_hi": [
+      "होशंगाबाद",
+      "देवास",
+      "नेपानगर",
+      "इंदौर"
+    ],
+    "correct": "B",
+    "explanation_en": "Bank Note Press (BNP) Dewas was established in 1974. Note: Security Paper Mill is at Narmadapuram (Hoshangabad), and Nepa Mills at Burhanpur produces newsprint paper.",
+    "explanation_hi": "देवास स्थित बैंक नोट प्रेस की स्थापना 1974 में हुई थी, जहां उच्च सुरक्षा वाले बैंक नोट और स्याही का उत्पादन होता है। होशंगाबाद में सिक्योरिटी पेपर मिल है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836053"
+  },
+  {
+    "id": "MPPSC-Q-0048",
+    "unit": "Unit 5: Constitutional & Economic System of MP",
+    "topic": "Constitutional & Economic System of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "DIFFICULT",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The Government of Madhya Pradesh formally notified and implemented the rules of the PESA Act (Panchayats Extension to Scheduled Areas) on which significant day?",
+    "question_hi": "मध्य प्रदेश सरकार ने पेसा अधिनियम (PESA Act - अनुसूचित क्षेत्रों में पंचायतों का विस्तार) के नियमों को किस ऐतिहासिक दिवस पर औपचारिक रूप से अधिसूचित और लागू किया?",
+    "options_en": [
+      "15 November 2022 (Janjatiya Gaurav Diwas)",
+      "26 January 2023",
+      "1 November 2021",
+      "15 August 2022"
+    ],
+    "options_hi": [
+      "15 नवंबर 2022 (जनजातीय गौरव दिवस)",
+      "26 जनवरी 2023",
+      "1 नवंबर 2021",
+      "15 अगस्त 2022"
+    ],
+    "correct": "A",
+    "explanation_en": "On 15 November 2022 (Birsa Munda Jayanti / Janjatiya Gaurav Diwas) at Shahdol, President Droupadi Murmu formally launched the implementation of MP PESA Rules 2022 empowering gram sabhas in tribal blocks.",
+    "explanation_hi": "15 नवंबर 2022 को भगवान बिरसा मुंडा की जयंती (जनजातीय गौरव दिवस) के अवसर पर शहडोल में राष्ट्रपति द्रौपदी मुर्मु द्वारा मध्य प्रदेश पेसा नियम 2022 को लागू किया गया।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836057"
+  },
+  {
+    "id": "MPPSC-Q-0049",
+    "unit": "Unit 5: Constitutional & Economic System of MP",
+    "topic": "Constitutional & Economic System of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which sector accounts for the largest share in the Gross State Value Added (GSVA) of Madhya Pradesh in recent years?",
+    "question_hi": "हाल के वर्षों में मध्य प्रदेश के सकल राज्य मूल्यवर्धन (GSVA) में किस क्षेत्र का योगदान सर्वाधिक रहा है?",
+    "options_en": [
+      "Primary Sector (Agriculture and Allied)",
+      "Secondary Sector (Manufacturing & Construction)",
+      "Tertiary Sector (Services)",
+      "Mining & Quarrying alone"
+    ],
+    "options_hi": [
+      "प्राथमिक क्षेत्र (कृषि एवं संबद्ध क्षेत्र)",
+      "द्वितीयक क्षेत्र (विनिर्माण एवं निर्माण)",
+      "तृतीयक क्षेत्र (सेवाएं)",
+      "केवल खनन एवं उत्खनन"
+    ],
+    "correct": "A",
+    "explanation_en": "Unlike the national trend where services dominate, Madhya Pradesh has a robust agrarian economy where the Primary sector contributes ~45% to GSVA at current prices.",
+    "explanation_hi": "राष्ट्रीय स्तर के विपरीत, मध्य प्रदेश की अर्थव्यवस्था कृषि-प्रधान है जहां प्राथमिक क्षेत्र (कृषि, पशुपालन, वानिकी) का राज्य के सकल मूल्यवर्धन में सर्वाधिक (~45%) योगदान है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836060"
+  },
+  {
+    "id": "MPPSC-Q-0050",
+    "unit": "Unit 5: Constitutional & Economic System of MP",
+    "topic": "Constitutional & Economic System of MP",
+    "subtopic": "Core Syllabus",
+    "difficulty": "DIFFICULT",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "In the administrative hierarchy of Madhya Pradesh, which constitutional authority conducts the business of executive governance in the name of the Governor under Article 166?",
+    "question_hi": "मध्य प्रदेश के प्रशासनिक तंत्र में संविधान के अनुच्छेद 166 के तहत राज्यपाल के नाम से शासकीय कार्य किसके द्वारा संचालित किए जाते हैं?",
+    "options_en": [
+      "Council of Ministers headed by Chief Minister",
+      "Chief Secretary of MP",
+      "Speaker of Vidhan Sabha",
+      "Lok Sabha Secretariat"
+    ],
+    "options_hi": [
+      "मुख्यमंत्री की अध्यक्षता में मंत्रिपरिषद",
+      "मध्य प्रदेश के मुख्य सचिव",
+      "विधानसभा अध्यक्ष",
+      "लोकसभा सचिवालय"
+    ],
+    "correct": "A",
+    "explanation_en": "Article 166 provides that all executive actions of the Government of a State shall be expressed to be taken in the name of the Governor, exercised on the aid and advice of the Council of Ministers headed by the CM.",
+    "explanation_hi": "अनुच्छेद 166 के अनुसार राज्य सरकार की समस्त कार्यपालिका कार्रवाई राज्यपाल के नाम से हुई कही जाएगी, जिसका संचालन मुख्यमंत्री की अध्यक्षता वाली मंत्रिपरिषद करती है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836063"
+  },
+  {
+    "id": "MPPSC-Q-0051",
+    "unit": "Unit 6: Indian Constitution, Governance & Economy",
+    "topic": "Indian Constitution, Governance & Economy",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The establishment of an All-India Federation and the introduction of 'Provincial Autonomy' were key features of which constitutional statute?",
+    "question_hi": "अखिल भारतीय महासंघ की स्थापना और 'प्रांतीय स्वायत्तता' की शुरुआत किस संवैधानिक अधिनियम की प्रमुख विशेषताएं थीं?",
+    "options_en": [
+      "Indian Councils Act 1909",
+      "Government of India Act 1919",
+      "Government of India Act 1935",
+      "Indian Independence Act 1947"
+    ],
+    "options_hi": [
+      "भारतीय परिषद अधिनियम 1909",
+      "भारत सरकार अधिनियम 1919",
+      "भारत सरकार अधिनियम 1935",
+      "भारतीय स्वतंत्रता अधिनियम 1947"
+    ],
+    "correct": "C",
+    "explanation_en": "The Government of India Act 1935 abolished dyarchy in the provinces, introducing provincial autonomy, and provided for an All-India Federation and a Federal Court.",
+    "explanation_hi": "भारत सरकार अधिनियम 1935 द्वारा प्रांतों में द्वैध शासन समाप्त कर प्रांतीय स्वायत्तता लागू की गई तथा एक अखिल भारतीय महासंघ और संघीय न्यायालय की स्थापना का प्रावधान किया गया।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836066"
+  },
+  {
+    "id": "MPPSC-Q-0052",
+    "unit": "Unit 6: Indian Constitution, Governance & Economy",
+    "topic": "Indian Constitution, Governance & Economy",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which landmark judgment of the Supreme Court of India in 1973 established the 'Basic Structure Doctrine' limiting Parliament's amending powers under Article 368?",
+    "question_hi": "1973 में सर्वोच्च न्यायालय के किस ऐतिहासिक निर्णय ने 'मूल संरचना सिद्धांत' (Basic Structure Doctrine) स्थापित कर अनुच्छेद 368 के तहत संसद की संशोधन शक्ति को सीमित किया?",
+    "options_en": [
+      "Golaknath v. State of Punjab",
+      "Kesavananda Bharati v. State of Kerala",
+      "Minerva Mills v. Union of India",
+      "Maneka Gandhi v. Union of India"
+    ],
+    "options_hi": [
+      "गोलकनाथ बनाम पंजाब राज्य",
+      "केशवानंद भारती बनाम केरल राज्य",
+      "मिनर्वा मिल्स बनाम भारत संघ",
+      "मेनका गांधी बनाम भारत संघ"
+    ],
+    "correct": "B",
+    "explanation_en": "In Kesavananda Bharati v. State of Kerala (1973), a 13-judge bench held that Parliament cannot alter or destroy the 'basic structure' of the Constitution.",
+    "explanation_hi": "केशवानंद भारती बनाम केरल राज्य (1973) मामले में 13 जजों की संविधान पीठ ने फैसला सुनाया कि संसद संविधान के मूल ढांचे (बेसिक स्ट्रक्चर) में संशोधन नहीं कर सकती।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836070"
+  },
+  {
+    "id": "MPPSC-Q-0053",
+    "unit": "Unit 6: Indian Constitution, Governance & Economy",
+    "topic": "Indian Constitution, Governance & Economy",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Under Article 32 of the Indian Constitution, which prerogative writ is issued by the Supreme Court to restrain a person from holding a public office to which they are not legally entitled?",
+    "question_hi": "भारतीय संविधान के अनुच्छेद 32 के तहत किस प्रादेश (रिट) को सर्वोच्च न्यायालय द्वारा किसी व्यक्ति को अवैध रूप से सार्वजनिक पद धारण करने से रोकने हेतु जारी किया जाता है?",
+    "options_en": [
+      "Habeas Corpus",
+      "Mandamus",
+      "Certiorari",
+      "Quo-Warranto"
+    ],
+    "options_hi": [
+      "बंदी प्रत्यक्षीकरण (Habeas Corpus)",
+      "परमादेश (Mandamus)",
+      "उत्प्रेषण (Certiorari)",
+      "अधिकार-पृच्छा (Quo-Warranto)"
+    ],
+    "correct": "D",
+    "explanation_en": "Quo-Warranto (literally 'by what authority') is issued by the judiciary to inquire into the legality of a person's claim to a public office and oust usurpers.",
+    "explanation_hi": "अधिकार-पृच्छा (Quo-Warranto) रिट न्यायालय द्वारा यह पूछने के लिए जारी की जाती है कि आप किस अधिकार या प्राधिकार से इस सार्वजनिक पद पर कार्य कर रहे हैं।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836073"
+  },
+  {
+    "id": "MPPSC-Q-0054",
+    "unit": "Unit 6: Indian Constitution, Governance & Economy",
+    "topic": "Indian Constitution, Governance & Economy",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which Article in the Directive Principles of State Policy (Part IV) enjoins the State to organize Village Panchayats as units of self-government?",
+    "question_hi": "राज्य के नीति निर्देशक तत्वों (भाग IV) का कौन सा अनुच्छेद राज्य को ग्राम पंचायतों के गठन और उन्हें स्वशासन की इकाइयों के रूप में संगठित करने का निर्देश देता है?",
+    "options_en": [
+      "Article 39A",
+      "Article 40",
+      "Article 44",
+      "Article 48"
+    ],
+    "options_hi": [
+      "अनुच्छेद 39A",
+      "अनुच्छेद 40",
+      "अनुच्छेद 44",
+      "अनुच्छेद 48"
+    ],
+    "correct": "B",
+    "explanation_en": "Article 40 of the Constitution states: 'The State shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government.'",
+    "explanation_hi": "अनुच्छेद 40 में ग्राम पंचायतों के संगठन का प्रावधान है, जो गांधीवादी सिद्धांतों पर आधारित एक प्रमुख नीति निर्देशक तत्व है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836076"
+  },
+  {
+    "id": "MPPSC-Q-0055",
+    "unit": "Unit 6: Indian Constitution, Governance & Economy",
+    "topic": "Indian Constitution, Governance & Economy",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "What is the maximum time limit within which the Rajya Sabha must return a Money Bill transmitted to it by the Lok Sabha under Article 109?",
+    "question_hi": "अनुच्छेद 109 के तहत लोकसभा द्वारा प्रेषित धन विधेयक (Money Bill) को राज्यसभा द्वारा अधिकतम कितने दिनों की अवधि के भीतर वापस लौटाना अनिवार्य है?",
+    "options_en": [
+      "14 days",
+      "30 days",
+      "60 days",
+      "6 months"
+    ],
+    "options_hi": [
+      "14 दिन",
+      "30 दिन",
+      "60 दिन",
+      "6 माह"
+    ],
+    "correct": "A",
+    "explanation_en": "The Rajya Sabha cannot reject or amend a Money Bill; it can only make recommendations within 14 days. If not returned in 14 days, it is deemed passed by both Houses.",
+    "explanation_hi": "धन विधेयक के संबंध में राज्यसभा को केवल सिफारिश करने का अधिकार है और उसे 14 दिनों के भीतर विधेयक वापस भेजना होता है, अन्यथा वह स्वतः पारित मान लिया जाता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836080"
+  },
+  {
+    "id": "MPPSC-Q-0056",
+    "unit": "Unit 6: Indian Constitution, Governance & Economy",
+    "topic": "Indian Constitution, Governance & Economy",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Under which Article of the Constitution can the President of India seek the advisory opinion of the Supreme Court on a question of law or fact?",
+    "question_hi": "संविधान के किस अनुच्छेद के तहत भारत के राष्ट्रपति विधि या तथ्य के किसी प्रश्न पर सर्वोच्च न्यायालय से परामर्श मांग सकते हैं?",
+    "options_en": [
+      "Article 129",
+      "Article 131",
+      "Article 143",
+      "Article 136"
+    ],
+    "options_hi": [
+      "अनुच्छेद 129",
+      "अनुच्छेद 131",
+      "अनुच्छेद 143",
+      "अनुच्छेद 136"
+    ],
+    "correct": "C",
+    "explanation_en": "Article 143 empowers the President to refer questions of public importance or pre-constitutional treaties to the Supreme Court for its advisory opinion.",
+    "explanation_hi": "अनुच्छेद 143 के तहत राष्ट्रपति को विधि या जनहित के किसी प्रश्न पर उच्चतम न्यायालय से परामर्शकारी क्षेत्राधिकार के अंतर्गत राय मांगने की शक्ति प्राप्त है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836084"
+  },
+  {
+    "id": "MPPSC-Q-0057",
+    "unit": "Unit 6: Indian Constitution, Governance & Economy",
+    "topic": "Indian Constitution, Governance & Economy",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The Monetary Policy Committee (MPC) of the Reserve Bank of India consists of how many total members?",
+    "question_hi": "भारतीय रिजर्व बैंक (RBI) की मौद्रिक नीति समिति (MPC) में कुल कितने सदस्य होते हैं?",
+    "options_en": [
+      "4 members",
+      "5 members",
+      "6 members",
+      "8 members"
+    ],
+    "options_hi": [
+      "4 सदस्य",
+      "5 सदस्य",
+      "6 सदस्य",
+      "8 सदस्य"
+    ],
+    "correct": "C",
+    "explanation_en": "The MPC consists of 6 members: 3 from the RBI (including the Governor as ex-officio Chairperson) and 3 external members nominated by the Central Government.",
+    "explanation_hi": "मौद्रिक नीति समिति (MPC) में 6 सदस्य होते हैं: 3 RBI से (गवर्नर अध्यक्ष सहित) और 3 केंद्र सरकार द्वारा नियुक्त स्वतंत्र विशेषज्ञ सदस्य।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836087"
+  },
+  {
+    "id": "MPPSC-Q-0058",
+    "unit": "Unit 6: Indian Constitution, Governance & Economy",
+    "topic": "Indian Constitution, Governance & Economy",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2021,
+      "paper": "GS Paper 1",
+      "notes": "101st Amendment GST enactment"
+    },
+    "question_en": "Which Constitutional Amendment Act introduced the nationwide Goods and Services Tax (GST) in India?",
+    "question_hi": "भारत में राष्ट्रव्यापी वस्तु एवं सेवा कर (GST) किस संविधान संशोधन अधिनियम द्वारा लागू किया गया था?",
+    "options_en": [
+      "99th Amendment Act",
+      "100th Amendment Act",
+      "101st Amendment Act",
+      "103rd Amendment Act"
+    ],
+    "options_hi": [
+      "99वां संशोधन अधिनियम",
+      "100वां संशोधन अधिनियम",
+      "101वां संशोधन अधिनियम",
+      "103वां संशोधन अधिनियम"
+    ],
+    "correct": "C",
+    "explanation_en": "The 101st Constitutional Amendment Act, 2016 introduced GST across India with effect from 1 July 2017 and inserted Article 279A for the GST Council.",
+    "explanation_hi": "101वें संविधान संशोधन अधिनियम, 2016 के द्वारा 1 जुलाई 2017 से पूरे देश में वस्तु एवं सेवा कर (GST) लागू किया गया और अनुच्छेद 279A के तहत जीएसटी परिषद का गठन हुआ।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836091"
+  },
+  {
+    "id": "MPPSC-Q-0059",
+    "unit": "Unit 6: Indian Constitution, Governance & Economy",
+    "topic": "Indian Constitution, Governance & Economy",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The Securities and Exchange Board of India (SEBI) was given statutory powers through an Act of Parliament in which year?",
+    "question_hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) को संसद के एक अधिनियम द्वारा किस वर्ष वैधानिक दर्जा प्रदान किया गया था?",
+    "options_en": [
+      "1988",
+      "1992",
+      "1995",
+      "1999"
+    ],
+    "options_hi": [
+      "1988",
+      "1992",
+      "1995",
+      "1999"
+    ],
+    "correct": "B",
+    "explanation_en": "SEBI was initially set up as a non-statutory body in 1988. It was granted statutory status and autonomous regulatory powers under the SEBI Act on 12 April 1992.",
+    "explanation_hi": "सेबी का गठन 1988 में एक गैर-सांविधिक निकाय के रूप में हुआ था, जिसे सेबी अधिनियम 1992 के पारित होने पर 12 अप्रैल 1992 को पूर्ण वैधानिक दर्जा मिला।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836097"
+  },
+  {
+    "id": "MPPSC-Q-0060",
+    "unit": "Unit 6: Indian Constitution, Governance & Economy",
+    "topic": "Indian Constitution, Governance & Economy",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The rate at which the Reserve Bank of India lends short-term money to commercial banks against government securities is called:",
+    "question_hi": "वह दर जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को सरकारी प्रतिभूतियों के बदले अल्पकालिक ऋण प्रदान करता है, क्या कहलाती है?",
+    "options_en": [
+      "Reverse Repo Rate",
+      "Repo Rate",
+      "Bank Rate",
+      "Marginal Standing Facility"
+    ],
+    "options_hi": [
+      "रिवर्स रेपो दर",
+      "रेपो दर (Repo Rate)",
+      "बैंक दर",
+      "सीमांत स्थायी सुविधा दर"
+    ],
+    "correct": "B",
+    "explanation_en": "Repo Rate (Repurchase Option Rate) is the benchmark interest rate at which the central bank lends money to commercial banks against pledged government collateral.",
+    "explanation_hi": "रेपो दर (Repo Rate) वह अल्पकालिक ब्याज दर है जिस पर आरबीआई सरकारी प्रतिभूतियों को गिरवी रखकर वाणिज्यिक बैंकों को नकदी उपलब्ध कराता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836111"
+  },
+  {
+    "id": "MPPSC-Q-0061",
+    "unit": "Unit 7: Science, Tech & Environment",
+    "topic": "Science, Tech & Environment",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Acid rain, which damages vegetation, aquatic ecosystems, and marble monuments, is caused mainly by the atmospheric emission of which gases?",
+    "question_hi": "अम्लीय वर्षा (Acid Rain), जो वनस्पति, जलीय पारिस्थितिकी तंत्र और संगमरमर के स्मारकों को नुकसान पहुंचाती है, मुख्यतः किन गैसों के वायुमंडलीय उत्सर्जन से होती है?",
+    "options_en": [
+      "Carbon Monoxide and Methane",
+      "Sulfur Dioxide and Nitrogen Oxides",
+      "Ozone and Carbon Dioxide",
+      "Chlorofluorocarbons and Argon"
+    ],
+    "options_hi": [
+      "कार्बन मोनोऑक्साइड और मीथेन",
+      "सल्फर डाइऑक्साइड (SO2) और नाइट्रोजन ऑक्साइड (NOx)",
+      "ओजोन और कार्बन डाइऑक्साइड",
+      "क्लोरोफ्लोरोकार्बन और आर्गन"
+    ],
+    "correct": "B",
+    "explanation_en": "Sulfur Dioxide (SO2) and Nitrogen Oxides (NOx) react with atmospheric water vapor, oxygen, and oxidants to form sulfuric acid and nitric acid, creating acid rain (pH < 5.6).",
+    "explanation_hi": "जीवाश्म ईंधनों के दहन से निकलने वाली सल्फर डाइऑक्साइड (SO2) और नाइट्रोजन ऑक्साइड्स (NOx) वायुमंडलीय जल से क्रिया करके सल्फ्यूरिक एवं नाइट्रिक अम्ल बनाती हैं।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836118"
+  },
+  {
+    "id": "MPPSC-Q-0062",
+    "unit": "Unit 7: Science, Tech & Environment",
+    "topic": "Science, Tech & Environment",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which endocrine cells of the Islets of Langerhans in the pancreas secrete the essential hormone Insulin?",
+    "question_hi": "अग्न्याशय (Pancreas) में स्थित लैंगरहैंस के द्वीप समूह की कौन सी अंतःस्रावी कोशिकाएं 'इंसुलिन' हार्मोन स्रावित करती हैं?",
+    "options_en": [
+      "Alpha cells",
+      "Beta cells",
+      "Delta cells",
+      "F cells"
+    ],
+    "options_hi": [
+      "अल्फा कोशिकाएं",
+      "बीटा कोशिकाएं (Beta cells)",
+      "डेल्टा कोशिकाएं",
+      "एफ कोशिकाएं"
+    ],
+    "correct": "B",
+    "explanation_en": "Beta cells in the Islets of Langerhans synthesize and secrete insulin to regulate glucose levels. Alpha cells secrete glucagon.",
+    "explanation_hi": "अग्न्याशय के लैंगरहैंस द्वीप की बीटा (β) कोशिकाएं इंसुलिन हार्मोन का स्राव करती हैं जो रक्त में ग्लूकोज के स्तर को नियंत्रित करता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836123"
+  },
+  {
+    "id": "MPPSC-Q-0063",
+    "unit": "Unit 7: Science, Tech & Environment",
+    "topic": "Science, Tech & Environment",
+    "subtopic": "Core Syllabus",
+    "difficulty": "EASY",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which of the following vitamins is water-soluble and its acute deficiency leads to the disease known as Scurvy?",
+    "question_hi": "निम्नलिखित में से कौन सा विटामिन जल में घुलनशील है और जिसकी अत्यधिक कमी से 'स्कर्वी' रोग हो जाता है?",
+    "options_en": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "options_hi": [
+      "विटामिन A",
+      "विटामिन D",
+      "विटामिन C (एस्कॉर्बिक एसिड)",
+      "विटामिन K"
+    ],
+    "correct": "C",
+    "explanation_en": "Vitamin C (Ascorbic acid) and Vitamin B complex are water-soluble. Deficiency of Vitamin C causes scurvy characterized by bleeding gums and skin spots. Vitamins A, D, E, K are fat-soluble.",
+    "explanation_hi": "विटामिन C और B समूह जल में घुलनशील हैं। विटामिन C (एस्कॉर्बिक एसिड) की कमी से मसूड़ों से रक्त आना और घावों का न भरना जैसे स्कर्वी के लक्षण उत्पन्न होते हैं।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836129"
+  },
+  {
+    "id": "MPPSC-Q-0064",
+    "unit": "Unit 7: Science, Tech & Environment",
+    "topic": "Science, Tech & Environment",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The exact landing site of ISRO's Chandrayaan-3 Vikram Lander near the lunar South Pole was officially named by India as:",
+    "question_hi": "चंद्रमा के दक्षिणी ध्रुव के समीप इसरो के चंद्रयान-3 के विक्रम लैंडर के सटीक लैंडिंग स्थल का आधिकारिक नामकरण क्या किया गया है?",
+    "options_en": [
+      "Tiranga Point",
+      "Shiv Shakti Point",
+      "Jawahar Point",
+      "Atal Point"
+    ],
+    "options_hi": [
+      "तिरंगा पॉइंट",
+      "शिव शक्ति पॉइंट (Shiv Shakti Point)",
+      "जवाहर पॉइंट",
+      "अटल पॉइंट"
+    ],
+    "correct": "B",
+    "explanation_en": "On 26 August 2023, PM Narendra Modi announced that the Chandrayaan-3 touchdown spot will be called 'Shiv Shakti Point', Chandrayaan-2 crash site as 'Tiranga Point', and August 23 as National Space Day.",
+    "explanation_hi": "23 अगस्त 2023 को चंद्रयान-3 की ऐतिहासिक सफल सॉफ्ट लैंडिंग के स्थल को 'शिव शक्ति पॉइंट' नाम दिया गया तथा 23 अगस्त को 'राष्ट्रीय अंतरिक्ष दिवस' घोषित किया गया।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836135"
+  },
+  {
+    "id": "MPPSC-Q-0065",
+    "unit": "Unit 7: Science, Tech & Environment",
+    "topic": "Science, Tech & Environment",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Under India's Integrated Guided Missile Development Programme (IGMDP) conceived by Dr. A.P.J. Abdul Kalam, which missile was developed specifically as an anti-tank guided missile (ATGM)?",
+    "question_hi": "डॉ. ए.पी.जे. अब्दुल कलाम द्वारा परिकल्पित भारत के समन्वित निर्देशित प्रक्षेपास्त्र विकास कार्यक्रम (IGMDP) के अंतर्गत किस मिसाइल को विशेष रूप से एंटी-टैंक गाइडेड मिसाइल (ATGM) के रूप में विकसित किया गया था?",
+    "options_en": [
+      "Trishul",
+      "Akash",
+      "Nag",
+      "Prithvi"
+    ],
+    "options_hi": [
+      "त्रिशूल",
+      "आकाश",
+      "नाग (Nag)",
+      "पृथ्वी"
+    ],
+    "correct": "C",
+    "explanation_en": "Under IGMDP, five missiles were developed (PATNA): Prithvi (surface-to-surface), Agni (re-entry ballistic), Trishul (short-range surface-to-air), Nag (fire-and-forget anti-tank), and Akash (medium-range SAM).",
+    "explanation_hi": "IGMDP के तहत 'नाग' मिसाइल को तीसरी पीढ़ी की दागो और भूल जाओ (Fire-and-Forget) एंटी-टैंक गाइडेड मिसाइल के रूप में विकसित किया गया था।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836142"
+  },
+  {
+    "id": "MPPSC-Q-0066",
+    "unit": "Unit 7: Science, Tech & Environment",
+    "topic": "Science, Tech & Environment",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "According to Raymond Lindeman's Ten Percent Law of ecological energy transfer, how much energy is transferred from one trophic level to the next higher level?",
+    "question_hi": "रेमंड लिंडमैन के पारिस्थितिक ऊर्जा स्थानांतरण के 10 प्रतिशत नियम के अनुसार, एक पोषण स्तर से अगले उच्च स्तर में कितनी ऊर्जा स्थानांतरित होती है?",
+    "options_en": [
+      "10%",
+      "20%",
+      "50%",
+      "90%"
+    ],
+    "options_hi": [
+      "10%",
+      "20%",
+      "50%",
+      "90%"
+    ],
+    "correct": "A",
+    "explanation_en": "In 1942, Raymond Lindeman proposed that during energy transfer from an organic food level to a higher trophic level, only about 10% of energy is turned into flesh; the remaining ~90% is lost as respiration and heat.",
+    "explanation_hi": "लिंडमैन के 10% ऊर्जा नियम (1942) के अनुसार प्रत्येक पोषण स्तर पर उपभोग की गई ऊर्जा का केवल लगभग 10% भाग ही अगले पोषण स्तर के जीव को जैव-भार के रूप में प्राप्त होता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836152"
+  },
+  {
+    "id": "MPPSC-Q-0067",
+    "unit": "Unit 7: Science, Tech & Environment",
+    "topic": "Science, Tech & Environment",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The landmark Wildlife (Protection) Act in India was promulgated in which year?",
+    "question_hi": "भारत में ऐतिहासिक वन्यजीव (संरक्षण) अधिनियम किस वर्ष पारित किया गया था?",
+    "options_en": [
+      "1972",
+      "1980",
+      "1986",
+      "2002"
+    ],
+    "options_hi": [
+      "1972",
+      "1980",
+      "1986",
+      "2002"
+    ],
+    "correct": "A",
+    "explanation_en": "The Wildlife (Protection) Act, 1972 established schedules of protected flora and fauna, led to the creation of National Parks and Sanctuaries, and paved the way for Project Tiger (1973).",
+    "explanation_hi": "वन्यजीवों के अवैध शिकार और व्यापार को रोकने तथा राष्ट्रीय उद्यानों/अभयारण्यों के गठन हेतु वन्यजीव (संरक्षण) अधिनियम 1972 में लागू किया गया।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836158"
+  },
+  {
+    "id": "MPPSC-Q-0068",
+    "unit": "Unit 7: Science, Tech & Environment",
+    "topic": "Science, Tech & Environment",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The phenomenon in which the concentration of non-biodegradable toxic chemicals increases progressively at higher trophic levels in a food chain is known as:",
+    "question_hi": "वह परिघटना जिसमें किसी खाद्य श्रृंखला के प्रत्येक उच्च पोषण स्तर पर अनिम्नीकरणीय विषैले रसायनों की सांद्रता में उत्तरोत्तर वृद्धि होती जाती है, क्या कहलाती है?",
+    "options_en": [
+      "Eutrophication",
+      "Biomagnification",
+      "Bioremediation",
+      "Bioaccumulation"
+    ],
+    "options_hi": [
+      "सुपोषण (Eutrophication)",
+      "जैव-आवर्धन (Biomagnification)",
+      "जैव-उपचार (Bioremediation)",
+      "जैव-संचयन (Bioaccumulation)"
+    ],
+    "correct": "B",
+    "explanation_en": "Biomagnification (biological magnification) refers to the increasing concentration of persistent toxic substances (e.g. DDT, mercury) in organisms at each successive link in the food chain.",
+    "explanation_hi": "खाद्य श्रृंखला में डीडीटी या पारे जैसे विषाक्त पदार्थों का निचले पोषण स्तर से शीर्ष मांसाहारी जीवों तक सांद्रता में बढ़ते जाना 'जैव-आवर्धन' (Biomagnification) कहलाता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836161"
+  },
+  {
+    "id": "MPPSC-Q-0069",
+    "unit": "Unit 7: Science, Tech & Environment",
+    "topic": "Science, Tech & Environment",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Where is the global headquarters of the treaty-based intergovernmental body 'International Solar Alliance' (ISA) located?",
+    "question_hi": "अंतरराष्ट्रीय अंतर-सरकारी संगठन 'अंतरराष्ट्रीय सौर गठबंधन' (ISA) का वैश्विक मुख्यालय कहां स्थित है?",
+    "options_en": [
+      "New Delhi, India",
+      "Gurugram (Haryana), India",
+      "Paris, France",
+      "Nairobi, Kenya"
+    ],
+    "options_hi": [
+      "नई दिल्ली, भारत",
+      "गुरुग्राम (हरियाणा), भारत",
+      "पेरिस, फ्रांस",
+      "नैरोबी, केन्या"
+    ],
+    "correct": "B",
+    "explanation_en": "The International Solar Alliance (ISA), initiated jointly by India and France in 2015, has its permanent headquarters at the National Institute of Solar Energy (NISE) in Gurugram, Haryana, India.",
+    "explanation_hi": "अंतरराष्ट्रीय सौर गठबंधन (ISA) का अंतरिम एवं स्थायी सचिवालय भारत के हरियाणा राज्य के गुरुग्राम (ग्वाल पहाड़ी) में स्थित है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836165"
+  },
+  {
+    "id": "MPPSC-Q-0070",
+    "unit": "Unit 7: Science, Tech & Environment",
+    "topic": "Science, Tech & Environment",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The 750 MW Rewa Ultra Mega Solar Power Project in Madhya Pradesh supplies clean green solar electricity to which prominent transport network outside MP?",
+    "question_hi": "मध्य प्रदेश का 750 मेगावाट क्षमता का 'रीवा अल्ट्रा मेगा सोलर पावर प्रोजेक्ट' मध्य प्रदेश के बाहर किस प्रमुख परिवहन प्रणाली को सौर ऊर्जा की आपूर्ति करता है?",
+    "options_en": [
+      "Delhi Metro Rail Corporation (DMRC)",
+      "Mumbai Suburban Railway",
+      "Lucknow Metro",
+      "Ahmedabad Metro"
+    ],
+    "options_hi": [
+      "दिल्ली मेट्रो रेल कॉर्पोरेशन (DMRC)",
+      "मुंबई उपनगरीय रेलवे",
+      "लखनऊ मेट्रो",
+      "अहमदाबाद मेट्रो"
+    ],
+    "correct": "A",
+    "explanation_en": "The Rewa Solar Project in MP supplies 24% of its generated solar energy to the Delhi Metro Rail Corporation (DMRC) to power its trains, while the remaining 76% goes to MP discoms.",
+    "explanation_hi": "रीवा सोलर प्लांट से उत्पादित बिजली का लगभग 24% भाग दिल्ली मेट्रो रेल कॉर्पोरेशन (DMRC) की परिचालन जरूरतों को पूरा करने के लिए दिया जाता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836170"
+  },
+  {
+    "id": "MPPSC-Q-0071",
+    "unit": "Unit 8: Current Affairs & Sports",
+    "topic": "Current Affairs & Sports",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The 17th Pravasi Bharatiya Divas (PBD) Convention was successfully hosted in January 2023 in which city of Madhya Pradesh?",
+    "question_hi": "17वां प्रवासी भारतीय दिवस (PBD) सम्मेलन जनवरी 2023 में मध्य प्रदेश के किस शहर में आयोजित किया गया था?",
+    "options_en": [
+      "Bhopal",
+      "Indore",
+      "Gwalior",
+      "Ujjain"
+    ],
+    "options_hi": [
+      "भोपाल",
+      "इंदौर",
+      "ग्वालियर",
+      "उज्जैन"
+    ],
+    "correct": "B",
+    "explanation_en": "The 17th Pravasi Bharatiya Divas was held in Indore, Madhya Pradesh from 8-10 January 2023 with Dr. Mohamed Irfaan Ali (President of Guyana) as the Chief Guest.",
+    "explanation_hi": "17वां प्रवासी भारतीय दिवस 8-10 जनवरी 2023 को मध्य प्रदेश के इंदौर में आयोजित किया गया था, जिसके मुख्य अतिथि गुयाना के राष्ट्रपति डॉ. मोहम्मद इरफान अली थे।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836173"
+  },
+  {
+    "id": "MPPSC-Q-0072",
+    "unit": "Unit 8: Current Affairs & Sports",
+    "topic": "Current Affairs & Sports",
+    "subtopic": "Core Syllabus",
+    "difficulty": "EASY",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2022,
+      "paper": "GS Paper 1",
+      "notes": "Mallakhamb declared State Sport in 2013"
+    },
+    "question_en": "Which traditional sport was declared as the official 'State Sport of Madhya Pradesh' by the state government in the year 2013?",
+    "question_hi": "वर्ष 2013 में मध्य प्रदेश सरकार द्वारा किस पारंपरिक खेल को 'मध्य प्रदेश का राज्य खेल' घोषित किया गया था?",
+    "options_en": [
+      "Kabaddi",
+      "Kho-Kho",
+      "Mallakhamb",
+      "Archery"
+    ],
+    "options_hi": [
+      "कबड्डी",
+      "खो-खो",
+      "मलखंब (Mallakhamb)",
+      "तीरंदाजी"
+    ],
+    "correct": "C",
+    "explanation_en": "Mallakhamb was declared the State Sport of Madhya Pradesh in April 2013. The state also instituted the 'Prabhash Joshi Award' for excellence in Mallakhamb.",
+    "explanation_hi": "अप्रैल 2013 में मध्य प्रदेश सरकार ने 'मलखंब' को राजकीय खेल का दर्जा दिया तथा इसके संवर्धन हेतु 'प्रभास जोशी पुरस्कार' की स्थापना की।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836177"
+  },
+  {
+    "id": "MPPSC-Q-0073",
+    "unit": "Unit 8: Current Affairs & Sports",
+    "topic": "Current Affairs & Sports",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which prestigious annual sports award of the Government of Madhya Pradesh is specifically given to outstanding coaches and trainers?",
+    "question_hi": "मध्य प्रदेश सरकार का कौन सा प्रतिष्ठित वार्षिक खेल पुरस्कार विशेष रूप से उत्कृष्ट प्रशिक्षकों (कोचों) को प्रदान किया जाता है?",
+    "options_en": [
+      "Vikram Award",
+      "Eklavya Award",
+      "Vishwamitra Award",
+      "Lifetime Achievement Award"
+    ],
+    "options_hi": [
+      "विक्रम पुरस्कार",
+      "एकलव्य पुरस्कार",
+      "विश्वामित्र पुरस्कार",
+      "लाइफटाइम अचीवमेंट पुरस्कार"
+    ],
+    "correct": "C",
+    "explanation_en": "The Vishwamitra Award is conferred upon sports coaches who have trained players winning national/international medals. Vikram Award is for senior players, and Eklavya is for junior players.",
+    "explanation_hi": "मध्य प्रदेश में खेल प्रशिक्षकों को सम्मानित करने के लिए 'विश्वामित्र पुरस्कार' दिया जाता है। सीनियर खिलाड़ियों को विक्रम पुरस्कार और जूनियर खिलाड़ियों को एकलव्य पुरस्कार मिलता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836181"
+  },
+  {
+    "id": "MPPSC-Q-0074",
+    "unit": "Unit 8: Current Affairs & Sports",
+    "topic": "Current Affairs & Sports",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The 5th edition of the Khelo India Youth Games (KIYG 2022-23) was hosted by which Indian state across eight of its cities?",
+    "question_hi": "खेलो इंडिया यूथ गेम्स के 5वें संस्करण (KIYG) की मेजबानी अपने 8 शहरों में किस भारतीय राज्य द्वारा की गई थी?",
+    "options_en": [
+      "Haryana",
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Karnataka"
+    ],
+    "options_hi": [
+      "हरियाणा",
+      "महाराष्ट्र",
+      "मध्य प्रदेश",
+      "कर्नाटक"
+    ],
+    "correct": "C",
+    "explanation_en": "The 5th Khelo India Youth Games was hosted by Madhya Pradesh from 30 January to 11 February 2023 across Bhopal, Indore, Ujjain, Gwalior, Jabalpur, Mandla, Balaghat, and Khargone.",
+    "explanation_hi": "खेलो इंडिया यूथ गेम्स का 5वां संस्करण जनवरी-फरवरी 2023 में मध्य प्रदेश के 8 शहरों (भोपाल, इंदौर, उज्जैन, ग्वालियर, जबलपुर, मंडला, बालाघाट, महेश्वर) में आयोजित हुआ।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836184"
+  },
+  {
+    "id": "MPPSC-Q-0075",
+    "unit": "Unit 8: Current Affairs & Sports",
+    "topic": "Current Affairs & Sports",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "What was the official theme of India's G20 Presidency during the New Delhi G20 Leaders' Summit 2023?",
+    "question_hi": "नई दिल्ली जी20 शिखर सम्मेलन 2023 के दौरान भारत की जी20 अध्यक्षता का आधिकारिक विषय (थीम) क्या था?",
+    "options_en": [
+      "Building a Resilient Tomorrow",
+      "Vasudhaiva Kutumbakam: One Earth, One Family, One Future",
+      "Together for Sustainable Growth",
+      "Global Harmony and Innovation"
+    ],
+    "options_hi": [
+      "बिल्डिंग अ रेजिलिएंट टुमॉरो",
+      "वसुधैव कुटुंबकम: एक पृथ्वी, एक परिवार, एक भविष्य",
+      "टुगेदर फॉर सस्टेनेबल ग्रोथ",
+      "ग्लोबल हार्मनी एंड इनोवेशन"
+    ],
+    "correct": "B",
+    "explanation_en": "The theme of India's G20 Presidency was 'Vasudhaiva Kutumbakam' (drawn from the Maha Upanishad), translating to 'One Earth · One Family · One Future'.",
+    "explanation_hi": "भारत की जी20 अध्यक्षता का ध्येय वाक्य 'वसुधैव कुटुंबकम' (एक पृथ्वी, एक परिवार, एक भविष्य) था, जो महा उपनिषद से लिया गया है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836188"
+  },
+  {
+    "id": "MPPSC-Q-0076",
+    "unit": "Unit 8: Current Affairs & Sports",
+    "topic": "Current Affairs & Sports",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "In the 19th Asian Games held at Hangzhou (China), how many total medals did the Indian contingent win, crossing the historic 100-medal milestone for the first time?",
+    "question_hi": "हांगझू (चीन) में आयोजित 19वें एशियाई खेलों में भारतीय दल ने पहली बार ऐतिहासिक 100 पदकों का आंकड़ा पार करते हुए कुल कितने पदक जीते?",
+    "options_en": [
+      "101 medals",
+      "107 medals",
+      "112 medals",
+      "98 medals"
+    ],
+    "options_hi": [
+      "101 पदक",
+      "107 पदक (28 स्वर्ण, 38 रजत, 41 कांस्य)",
+      "112 पदक",
+      "98 पदक"
+    ],
+    "correct": "B",
+    "explanation_en": "India won a record 107 medals at the 19th Asian Games 2023 (28 Gold, 38 Silver, and 41 Bronze), finishing 4th in the overall medal tally under the campaign 'Iss Baar 100 Paar'.",
+    "explanation_hi": "19वें एशियाई खेल हांगझू 2023 में भारत ने कुल 107 पदक (28 स्वर्ण, 38 रजत, 41 कांस्य) जीतकर चौथा स्थान प्राप्त किया और पहली बार 100 से अधिक पदक जीते।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836193"
+  },
+  {
+    "id": "MPPSC-Q-0077",
+    "unit": "Unit 8: Current Affairs & Sports",
+    "topic": "Current Affairs & Sports",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "At the 15th BRICS Summit in Johannesburg, six nations were invited to join the BRICS grouping. Five officially became full members from January 2024. Which of the following was NOT among them?",
+    "question_hi": "जोहान्सबर्ग में 15वें ब्रिक्स शिखर सम्मेलन में शामिल किए गए नए सदस्यों में 1 जनवरी 2024 से कौन सा देश औपचारिक रूप से शामिल नहीं हुआ?",
+    "options_en": [
+      "Egypt",
+      "Iran",
+      "Argentina",
+      "United Arab Emirates (UAE)"
+    ],
+    "options_hi": [
+      "मिस्र",
+      "ईरान",
+      "अर्जेंटीना",
+      "संयुक्त अरब अमीरात (UAE)"
+    ],
+    "correct": "C",
+    "explanation_en": "Argentina's newly elected President Javier Milei officially withdrew Argentina from joining BRICS in late 2023. Egypt, Ethiopia, Iran, Saudi Arabia, and the UAE joined as full members.",
+    "explanation_hi": "अर्जेंटीना के राष्ट्रपति जेवियर माइली ने ब्रिक्स में शामिल होने के प्रस्ताव को खारिज कर दिया, जबकि मिस्र, इथियोपिया, ईरान, सऊदी अरब और यूएई 1 जनवरी 2024 से ब्रिक्स के पूर्ण सदस्य बने।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836196"
+  },
+  {
+    "id": "MPPSC-Q-0078",
+    "unit": "Unit 8: Current Affairs & Sports",
+    "topic": "Current Affairs & Sports",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Under which scheme launched by the MP Government is monthly financial assistance directly transferred into the bank accounts of eligible women in Madhya Pradesh?",
+    "question_hi": "मध्य प्रदेश सरकार द्वारा शुरू की गई किस योजना के तहत पात्र महिलाओं के बैंक खातों में प्रतिमाह प्रत्यक्ष वित्तीय सहायता अंतरित की जाती है?",
+    "options_en": [
+      "Mukhya Mantri Kanya Vivah Yojana",
+      "Mukhya Mantri Ladli Behna Yojana",
+      "Gaon Ki Beti Yojana",
+      "Tejaswini Yojana"
+    ],
+    "options_hi": [
+      "मुख्यमंत्री कन्या विवाह योजना",
+      "मुख्यमंत्री लाडली बहना योजना",
+      "गांव की बेटी योजना",
+      "तेजस्विनी योजना"
+    ],
+    "correct": "B",
+    "explanation_en": "The Mukhyamantri Ladli Behna Yojana was launched in Madhya Pradesh in March 2023 to provide economic independence and nutrition support to eligible adult women via monthly DBT payments.",
+    "explanation_hi": "मार्च 2023 में शुरू की गई 'मुख्यमंत्री लाडली बहना योजना' के अंतर्गत 21 से 60 वर्ष की पात्र महिलाओं को प्रतिमाह डीबीटी के माध्यम से वित्तीय सहायता प्रदान की जाती है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836200"
+  },
+  {
+    "id": "MPPSC-Q-0079",
+    "unit": "Unit 8: Current Affairs & Sports",
+    "topic": "Current Affairs & Sports",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Divyakriti Singh became the first Indian woman to be conferred the Arjuna Award in which sport?",
+    "question_hi": "दिव्यकृति सिंह किस खेल में अर्जुन पुरस्कार से सम्मानित होने वाली भारत की पहली महिला खिलाड़ी बनीं?",
+    "options_en": [
+      "Shooting",
+      "Equestrian (Horse Riding)",
+      "Sailing",
+      "Fencing"
+    ],
+    "options_hi": [
+      "निशानेबाजी",
+      "घुड़सवारी (Equestrian)",
+      "नौकायन",
+      "तलवारबाजी"
+    ],
+    "correct": "B",
+    "explanation_en": "Divyakriti Singh (part of the Asian Games gold-winning Dressage team) became the first Indian woman athlete to receive the Arjuna Award in Equestrian in January 2024.",
+    "explanation_hi": "दिव्यकृति सिंह एशियाई खेलों में स्वर्ण पदक विजेता ड्रेसेज टीम की सदस्य थीं और जनवरी 2024 में घुड़सवारी खेल में प्रतिष्ठित अर्जुन पुरस्कार पाने वाली पहली भारतीय महिला बनीं।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836203"
+  },
+  {
+    "id": "MPPSC-Q-0080",
+    "unit": "Unit 8: Current Affairs & Sports",
+    "topic": "Current Affairs & Sports",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The United Nations declared the year 2023 as the International Year of what, championed extensively by India?",
+    "question_hi": "संयुक्त राष्ट्र ने भारत की पहल पर वर्ष 2023 को किस रूप में मनाने की अंतरराष्ट्रीय घोषणा की थी?",
+    "options_en": [
+      "International Year of Pulses",
+      "International Year of Millets (Shree Anna)",
+      "International Year of Freshwater",
+      "International Year of Forests"
+    ],
+    "options_hi": [
+      "अंतरराष्ट्रीय दलहन वर्ष",
+      "अंतरराष्ट्रीय कदन/मोटा अनाज वर्ष (Millets - श्री अन्न)",
+      "अंतरराष्ट्रीय मीठा जल वर्ष",
+      "अंतरराष्ट्रीय वन वर्ष"
+    ],
+    "correct": "B",
+    "explanation_en": "Following a resolution proposed by India and endorsed by the UN General Assembly, 2023 was designated the 'International Year of Millets' to promote nutritious climate-resilient grains.",
+    "explanation_hi": "भारत सरकार के प्रस्ताव पर संयुक्त राष्ट्र महासभा ने वर्ष 2023 को 'अंतरराष्ट्रीय मिलेट्स (मोटा अनाज / श्री अन्न) वर्ष' के रूप में घोषित किया था।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836206"
+  },
+  {
+    "id": "MPPSC-Q-0081",
+    "unit": "Unit 9: Information & Communication Tech",
+    "topic": "Information & Communication Tech",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "In computer networking, which layer of the standard Open Systems Interconnection (OSI) 7-layer reference model is responsible for logical IP addressing and routing packets?",
+    "question_hi": "कंप्यूटर नेटवर्किंग में ओएसआई (OSI) 7-लेयर संदर्भ मॉडल की कौन सी परत लॉजिकल आईपी एड्रेसिंग और पैकेट रूटिंग के लिए उत्तरदायी है?",
+    "options_en": [
+      "Data Link Layer",
+      "Network Layer",
+      "Transport Layer",
+      "Session Layer"
+    ],
+    "options_hi": [
+      "डेटा लिंक लेयर",
+      "नेटवर्क लेयर (Network Layer)",
+      "ट्रांसपोर्ट लेयर",
+      "सेशन लेयर"
+    ],
+    "correct": "B",
+    "explanation_en": "Layer 3, the Network Layer, manages host addressing, router packet forwarding, and determines routing paths using protocols like IP, ICMP, and BGP.",
+    "explanation_hi": "ओएसआई मॉडल की तीसरी परत 'नेटवर्क लेयर' आईपी एड्रेसिंग, पैकेट्स के पथ निर्धारण (रूटिंग) और विभिन्न नेटवर्कों के मध्य डेटा स्थानांतरण का कार्य करती है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836209"
+  },
+  {
+    "id": "MPPSC-Q-0082",
+    "unit": "Unit 9: Information & Communication Tech",
+    "topic": "Information & Communication Tech",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "What is the total bit address length of an Internet Protocol Version 6 (IPv6) address compared to a 32-bit IPv4 address?",
+    "question_hi": "32-बिट वाले IPv4 पते की तुलना में इंटरनेट प्रोटोकॉल वर्जन 6 (IPv6) पते की कुल बिट लंबाई कितनी होती है?",
+    "options_en": [
+      "64 bits",
+      "128 bits",
+      "256 bits",
+      "512 bits"
+    ],
+    "options_hi": [
+      "64 बिट",
+      "128 बिट (128 bits)",
+      "256 बिट",
+      "512 बिट"
+    ],
+    "correct": "B",
+    "explanation_en": "IPv4 uses 32-bit addresses providing ~4.3 billion unique IPs. IPv6 expands the address space to 128 bits, written as eight groups of four hexadecimal digits.",
+    "explanation_hi": "IPv6 एड्रेस 128 बिट लंबा होता है (IPv4 के 32 बिट की तुलना में), जो अनंत संख्या में इंटरनेट डिवाइसों के लिए विशिष्ट आईपी एड्रेस उपलब्ध कराता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836213"
+  },
+  {
+    "id": "MPPSC-Q-0083",
+    "unit": "Unit 9: Information & Communication Tech",
+    "topic": "Information & Communication Tech",
+    "subtopic": "Core Syllabus",
+    "difficulty": "EASY",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Who is universally recognized as the inventor of the World Wide Web (WWW) and created the first web browser while working at CERN in 1989?",
+    "question_hi": "1989 में सर्न (CERN) में कार्य करते हुए वर्ल्ड वाइड वेब (WWW) का आविष्कार करने और पहला वेब ब्राउज़र बनाने का श्रेय किसे दिया जाता है?",
+    "options_en": [
+      "Tim Berners-Lee",
+      "Vint Cerf",
+      "Marc Andreessen",
+      "Robert Kahn"
+    ],
+    "options_hi": [
+      "टिम बर्नर्स-ली (Tim Berners-Lee)",
+      "विंट सर्फ",
+      "मार्क एंड्रीसन",
+      "रॉबर्ट कान"
+    ],
+    "correct": "A",
+    "explanation_en": "Sir Tim Berners-Lee invented the World Wide Web, developed HTML, URL syntax, and HTTP, and created the first web server and browser in 1989-1990.",
+    "explanation_hi": "ब्रिटिश वैज्ञानिक टिम बर्नर्स-ली ने 1989 में सर्न में WWW, HTML और HTTP प्रोटोकॉल का आविष्कार कर आधुनिक वेब की नींव रखी थी।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836216"
+  },
+  {
+    "id": "MPPSC-Q-0084",
+    "unit": "Unit 9: Information & Communication Tech",
+    "topic": "Information & Communication Tech",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "In Artificial Intelligence, the famous benchmark test designed in 1950 to evaluate whether a machine can exhibit intelligent behavior indistinguishable from a human is known as:",
+    "question_hi": "आर्टिफिशियल इंटेलिजेंस (AI) में 1950 में तैयार किया गया वह प्रसिद्ध परीक्षण कौन सा है, जो यह परखता है कि क्या कोई मशीन मानव जैसी बुद्धिमत्ता प्रदर्शित कर सकती है?",
+    "options_en": [
+      "Voight-Kampff Test",
+      "Turing Test",
+      "Lovelace Test",
+      "Winograd Schema"
+    ],
+    "options_hi": [
+      "वोइट-कैम्पफ टेस्ट",
+      "ट्यूरिंग टेस्ट (Turing Test)",
+      "लवलेक टेस्ट",
+      "विनोग्राद स्कीमा"
+    ],
+    "correct": "B",
+    "explanation_en": "Formulated by Alan Turing in his 1950 paper 'Computing Machinery and Intelligence', the Turing Test tests if an evaluator can distinguish between human and machine text conversations.",
+    "explanation_hi": "गणितज्ञ एलन ट्यूरिंग द्वारा 1950 में प्रतिपादित 'ट्यूरिंग टेस्ट' कंप्यूटर के मानव जैसी बुद्धिमत्ता और सोचने-समझने की क्षमता को मापने का मानक परीक्षण है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836219"
+  },
+  {
+    "id": "MPPSC-Q-0085",
+    "unit": "Unit 9: Information & Communication Tech",
+    "topic": "Information & Communication Tech",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "In robotics, which mechanical component is responsible for producing motion and moving robotic joints, effectively acting as the robot's muscles?",
+    "question_hi": "रोबोटिक्स में कौन सा यांत्रिक घटक रोबोट के जोड़ों को गति प्रदान करने और हिलाने के लिए जिम्मेदार होता है, जिसे रोबोट की मांसपेशियां कहा जाता है?",
+    "options_en": [
+      "Sensor",
+      "Actuator",
+      "Microcontroller",
+      "End Effector"
+    ],
+    "options_hi": [
+      "सेंसर",
+      "एक्चुएटर (Actuator)",
+      "माइक्रोकंट्रोलर",
+      "एंड-इफेक्टर"
+    ],
+    "correct": "B",
+    "explanation_en": "Actuators (electric motors, hydraulic cylinders, pneumatic drives) convert stored energy into physical mechanical motion, driving robot links and joints.",
+    "explanation_hi": "एक्चुएटर (Actuator) विद्युत या हाइड्रोलिक ऊर्जा को यांत्रिक गति में बदलते हैं और रोबोट के अंगों को संचालित करने वाली मांसपेशियों का कार्य करते हैं।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836222"
+  },
+  {
+    "id": "MPPSC-Q-0086",
+    "unit": "Unit 9: Information & Communication Tech",
+    "topic": "Information & Communication Tech",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "A malicious cyberattack that encrypts victim files and demands extortion payment for the decryption key is categorized as:",
+    "question_hi": "वह दुर्भावनापूर्ण साइबर हमला जो उपयोगकर्ता की फाइलों को एन्क्रिप्ट कर देता है और डिक्रिप्शन कुंजी के बदले फिरौती की मांग करता है, क्या कहलाता है?",
+    "options_en": [
+      "Phishing",
+      "Spyware",
+      "Ransomware",
+      "DDoS Attack"
+    ],
+    "options_hi": [
+      "फ़िशिंग",
+      "स्पाइवेयर",
+      "रैनसमवेयर (Ransomware)",
+      "डीडीओएस (DDoS) हमला"
+    ],
+    "correct": "C",
+    "explanation_en": "Ransomware is malware designed to deny access to a computer system or data until a ransom is paid (e.g. WannaCry, LockBit).",
+    "explanation_hi": "रैनसमवेयर एक प्रकार का मालवेयर है जो यूजर के डेटा को बंधक बना लेता है (एन्क्रिप्ट कर) और फाइलों को मुक्त करने हेतु धन (क्रिप्टोकरेंसी) की मांग करता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836227"
+  },
+  {
+    "id": "MPPSC-Q-0087",
+    "unit": "Unit 9: Information & Communication Tech",
+    "topic": "Information & Communication Tech",
+    "subtopic": "Core Syllabus",
+    "difficulty": "DIFFICULT",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "In the landmark 2015 judgment 'Shreya Singhal v. Union of India', the Supreme Court struck down which section of the Information Technology Act, 2000 as unconstitutional?",
+    "question_hi": "वर्ष 2015 के ऐतिहासिक 'श्रेया सिंघल बनाम भारत संघ' मामले में सर्वोच्च न्यायालय ने सूचना प्रौद्योगिकी अधिनियम 2000 की किस धारा को असंवैधानिक करार देकर निरस्त कर दिया था?",
+    "options_en": [
+      "Section 43A",
+      "Section 66A",
+      "Section 69A",
+      "Section 79"
+    ],
+    "options_hi": [
+      "धारा 43A",
+      "धारा 66A (Section 66A)",
+      "धारा 69A",
+      "धारा 79"
+    ],
+    "correct": "B",
+    "explanation_en": "Section 66A of the IT Act penalised sending 'offensive' messages online. The Supreme Court struck it down in its entirety for violating the fundamental right to freedom of speech under Article 19(1)(a).",
+    "explanation_hi": "सुप्रीम कोर्ट ने इंटरनेट पर अभिव्यक्ति की स्वतंत्रता का हनन करने के आधार पर सूचना प्रौद्योगिकी कानून की धारा 66A को असंवैधानिक घोषित कर निरस्त कर दिया था।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836233"
+  },
+  {
+    "id": "MPPSC-Q-0088",
+    "unit": "Unit 9: Information & Communication Tech",
+    "topic": "Information & Communication Tech",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The Unified Payments Interface (UPI), India's instant real-time payment system, was developed by which umbrella organization?",
+    "question_hi": "भारत की त्वरित रियल-टाइम भुगतान प्रणाली 'यूनिफाइड पेमेंट्स इंटरफेस' (UPI) किस शीर्ष संस्था द्वारा विकसित की गई थी?",
+    "options_en": [
+      "Reserve Bank of India (RBI)",
+      "National Payments Corporation of India (NPCI)",
+      "NITI Aayog",
+      "State Bank of India (SBI)"
+    ],
+    "options_hi": [
+      "भारतीय रिजर्व बैंक (RBI)",
+      "भारतीय राष्ट्रीय भुगतान निगम (NPCI)",
+      "नीति आयोग",
+      "भारतीय स्टेट बैंक (SBI)"
+    ],
+    "correct": "B",
+    "explanation_en": "UPI was launched in April 2016 by the National Payments Corporation of India (NPCI), an initiative of the RBI and Indian Banks' Association (IBA).",
+    "explanation_hi": "UPI का विकास भारतीय राष्ट्रीय भुगतान निगम (NPCI) द्वारा किया गया था, जो देश में खुदरा भुगतान और निपटान प्रणाली के संचालन का शीर्ष निकाय है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836237"
+  },
+  {
+    "id": "MPPSC-Q-0089",
+    "unit": "Unit 9: Information & Communication Tech",
+    "topic": "Information & Communication Tech",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Which cloud computing deployment model allows consumers to rent virtualized hardware resources such as virtual machines, storage, and networking over the internet?",
+    "question_hi": "क्लाउड कंप्यूटिंग का कौन सा सेवा मॉडल उपभोक्ताओं को इंटरनेट पर वर्चुअल मशीन, स्टोरेज और नेटवर्किंग जैसे बुनियादी हार्डवेयर संसाधन किराए पर लेने की सुविधा देता है?",
+    "options_en": [
+      "Software as a Service (SaaS)",
+      "Platform as a Service (PaaS)",
+      "Infrastructure as a Service (IaaS)",
+      "Function as a Service (FaaS)"
+    ],
+    "options_hi": [
+      "सॉफ्टवेयर ऐज अ सर्विस (SaaS)",
+      "प्लेटफ़ॉर्म ऐज अ सर्विस (PaaS)",
+      "इन्फ्रास्ट्रक्चर ऐज अ सर्विस (IaaS)",
+      "फंक्शन ऐज अ सर्विस (FaaS)"
+    ],
+    "correct": "C",
+    "explanation_en": "Infrastructure as a Service (IaaS) provides virtualized computing infrastructure (servers, network connections, bandwidth, IP addresses, and storage) on demand (e.g., AWS EC2, Google Compute Engine).",
+    "explanation_hi": "इन्फ्रास्ट्रक्चर ऐज अ सर्विस (IaaS) के अंतर्गत क्लाउड प्रदाता ग्राहकों को सर्वर, स्टोरेज और नेटवर्किंग जैसे मूलभूत कंप्यूटिंग संसाधन मांग के अनुसार किराए पर प्रदान करता है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836241"
+  },
+  {
+    "id": "MPPSC-Q-0090",
+    "unit": "Unit 9: Information & Communication Tech",
+    "topic": "Information & Communication Tech",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The national nodal agency for responding to computer security incidents and cyber security threats in India is:",
+    "question_hi": "भारत में कंप्यूटर सुरक्षा घटनाओं और साइबर हमलों से निपटने के लिए राष्ट्रीय नोडल एजेंसी कौन सी है?",
+    "options_en": [
+      "C-DAC",
+      "CERT-In",
+      "NIC",
+      "NASSCOM"
+    ],
+    "options_hi": [
+      "सी-डैक (C-DAC)",
+      "सर्ट-इन (CERT-In)",
+      "राष्ट्रीय सूचना विज्ञान केंद्र (NIC)",
+      "नैसकॉम (NASSCOM)"
+    ],
+    "correct": "B",
+    "explanation_en": "The Indian Computer Emergency Response Team (CERT-In), operating under MeitY since 2004, is designated under Section 70B of the IT Act as the national agency for cybersecurity incident response.",
+    "explanation_hi": "सर्ट-इन (Indian Computer Emergency Response Team - CERT-In) इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के अधीन भारत की राष्ट्रीय साइबर सुरक्षा नोडल एजेंसी है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836244"
+  },
+  {
+    "id": "MPPSC-Q-0091",
+    "unit": "Unit 10: Constitutional & Statutory Bodies",
+    "topic": "Constitutional & Statutory Bodies",
+    "subtopic": "Core Syllabus",
+    "difficulty": "EASY",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "Under Article 324 of the Indian Constitution, what is the term of office prescribed for the Chief Election Commissioner (CEC) of India?",
+    "question_hi": "भारतीय संविधान के अनुच्छेद 324 के तहत भारत के मुख्य निर्वाचन आयुक्त (CEC) का कार्यकाल कितना निर्धारित है?",
+    "options_en": [
+      "5 years or up to 65 years of age",
+      "6 years or up to 65 years of age",
+      "6 years or up to 62 years of age",
+      "5 years or up to 70 years of age"
+    ],
+    "options_hi": [
+      "5 वर्ष या 65 वर्ष की आयु तक",
+      "6 वर्ष या 65 वर्ष की आयु तक (जो भी पहले हो)",
+      "6 वर्ष या 62 वर्ष की आयु तक",
+      "5 वर्ष या 70 वर्ष की आयु तक"
+    ],
+    "correct": "B",
+    "explanation_en": "The Chief Election Commissioner and Election Commissioners hold office for a term of 6 years or until they attain the age of 65 years, whichever is earlier.",
+    "explanation_hi": "मुख्य निर्वाचन आयुक्त और अन्य चुनाव आयुक्त पदभार ग्रहण करने की तिथि से 6 वर्ष की अवधि अथवा 65 वर्ष की आयु प्राप्त करने तक (जो भी पहले हो) पद पर रहते हैं।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836362"
+  },
+  {
+    "id": "MPPSC-Q-0092",
+    "unit": "Unit 10: Constitutional & Statutory Bodies",
+    "topic": "Constitutional & Statutory Bodies",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2020,
+      "paper": "GS Paper 1",
+      "notes": "First MP State Election Commissioner N.B. Lohani"
+    },
+    "question_en": "Who served as the very first State Election Commissioner of the Madhya Pradesh State Election Commission established in 1994?",
+    "question_hi": "वर्ष 1994 में गठित मध्य प्रदेश राज्य निर्वाचन आयोग के प्रथम राज्य निर्वाचन आयुक्त कौन थे?",
+    "options_en": [
+      "Gopal Sharan Shukla",
+      "N. B. Lohani",
+      "Aditya Vijay Singh",
+      "R. Parasuram"
+    ],
+    "options_hi": [
+      "गोपाल शरण शुक्ल",
+      "एन. बी. लोहानी",
+      "आदित्य विजय सिंह",
+      "आर. परशुराम"
+    ],
+    "correct": "B",
+    "explanation_en": "Shri N. B. Lohani was appointed as the first State Election Commissioner of Madhya Pradesh, serving from 15 February 1994 to 15 February 2000.",
+    "explanation_hi": "श्री एन. बी. लोहानी मध्य प्रदेश राज्य निर्वाचन आयोग के प्रथम आयुक्त थे (कार्यकाल: 15 फरवरी 1994 से 15 फरवरी 2000)।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836379"
+  },
+  {
+    "id": "MPPSC-Q-0093",
+    "unit": "Unit 10: Constitutional & Statutory Bodies",
+    "topic": "Constitutional & Statutory Bodies",
+    "subtopic": "Core Syllabus",
+    "difficulty": "DIFFICULT",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "PYQ_VERIFIED",
+    "pyq_metadata": {
+      "exam": "MPPSC Prelims",
+      "year": 2022,
+      "paper": "GS Paper 1",
+      "notes": "MPPSC formed under Section 118(3) States Reorganisation Act 1956"
+    },
+    "question_en": "The Madhya Pradesh Public Service Commission (MPPSC) was constituted on 1st November 1956 under which specific provision?",
+    "question_hi": "मध्य प्रदेश लोक सेवा आयोग (MPPSC) का गठन 1 नवंबर 1956 को किस विशिष्ट कानूनी प्रावधान के तहत किया गया था?",
+    "options_en": [
+      "Article 315 of the Constitution directly",
+      "Section 118(3) of the States Reorganisation Act, 1956",
+      "MP Civil Services Act, 1956",
+      "Article 323 of the Constitution"
+    ],
+    "options_hi": [
+      "सीधे संविधान के अनुच्छेद 315 के तहत",
+      "राज्य पुनर्गठन अधिनियम 1956 की धारा 118(3) के तहत",
+      "म.प्र. सिविल सेवा अधिनियम 1956",
+      "संविधान के अनुच्छेद 323 के तहत"
+    ],
+    "correct": "B",
+    "explanation_en": "Under Section 118(3) of the States Reorganisation Act 1956, the President issued an order establishing the MPPSC with effect from 1 November 1956. (D.V. Rege was its first Chairman).",
+    "explanation_hi": "राज्य पुनर्गठन अधिनियम, 1956 की धारा 118(3) के अंतर्गत राष्ट्रपति की अधिसूचना द्वारा 1 नवंबर 1956 को मध्य प्रदेश लोक सेवा आयोग का गठन किया गया था।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836440"
+  },
+  {
+    "id": "MPPSC-Q-0094",
+    "unit": "Unit 10: Constitutional & Statutory Bodies",
+    "topic": "Constitutional & Statutory Bodies",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The Comptroller and Auditor General of India (CAG) is appointed by the President under Article 148. What is the CAG's prescribed term of office?",
+    "question_hi": "भारत के नियंत्रक एवं महालेखापरीक्षक (CAG) की नियुक्ति अनुच्छेद 148 के तहत राष्ट्रपति द्वारा की जाती है। कैग का निर्धारित कार्यकाल कितना होता है?",
+    "options_en": [
+      "5 years or 65 years of age",
+      "6 years or 65 years of age",
+      "6 years or 62 years of age",
+      "During the pleasure of the President"
+    ],
+    "options_hi": [
+      "5 वर्ष या 65 वर्ष की आयु",
+      "6 वर्ष या 65 वर्ष की आयु (जो भी पहले हो)",
+      "6 वर्ष या 62 वर्ष की आयु",
+      "राष्ट्रपति के प्रसादपर्यंत"
+    ],
+    "correct": "B",
+    "explanation_en": "Under the CAG (DPC) Act 1971, the CAG holds office for a term of 6 years from the date on which he assumes office, or until he attains the age of 65 years.",
+    "explanation_hi": "कैग (CAG) का कार्यकाल पद ग्रहण की तारीख से 6 वर्ष अथवा 65 वर्ष की आयु (जो भी पहले आए) तक होता है। कैग को पद से केवल उसी रीति से हटाया जा सकता है जैसे सर्वोच्च न्यायालय के न्यायाधीश को।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836457"
+  },
+  {
+    "id": "MPPSC-Q-0095",
+    "unit": "Unit 10: Constitutional & Statutory Bodies",
+    "topic": "Constitutional & Statutory Bodies",
+    "subtopic": "Core Syllabus",
+    "difficulty": "EASY",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "NITI Aayog (National Institution for Transforming India) was established by a Cabinet Resolution on which date, replacing the Planning Commission?",
+    "question_hi": "योजना आयोग के स्थान पर केंद्रीय मंत्रिमंडल के एक प्रस्ताव द्वारा नीति आयोग (NITI Aayog) की स्थापना किस तिथि को की गई थी?",
+    "options_en": [
+      "15 August 2014",
+      "1 January 2015",
+      "1 April 2015",
+      "26 January 2015"
+    ],
+    "options_hi": [
+      "15 अगस्त 2014",
+      "1 जनवरी 2015",
+      "1 अप्रैल 2015",
+      "26 जनवरी 2015"
+    ],
+    "correct": "B",
+    "explanation_en": "NITI Aayog was formed on 1 January 2015 via a Union Cabinet resolution to serve as the premier policy think tank of the Government of India, chaired by the Prime Minister.",
+    "explanation_hi": "1 जनवरी 2015 को केंद्रीय मंत्रिमंडल के प्रस्ताव द्वारा योजना आयोग को समाप्त कर नीति आयोग (National Institution for Transforming India) का गठन किया गया।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836465"
+  },
+  {
+    "id": "MPPSC-Q-0096",
+    "unit": "Unit 10: Constitutional & Statutory Bodies",
+    "topic": "Constitutional & Statutory Bodies",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "As per the Protection of Human Rights (Amendment) Act 2019, who is eligible to be appointed as the Chairperson of the National Human Rights Commission (NHRC)?",
+    "question_hi": "मानव अधिकार संरक्षण (संशोधन) अधिनियम 2019 के अनुसार राष्ट्रीय मानव अधिकार आयोग (NHRC) का अध्यक्ष नियुक्त होने के लिए कौन पात्र है?",
+    "options_en": [
+      "Only a retired Chief Justice of India",
+      "A person who has been a Chief Justice of India OR a Judge of the Supreme Court",
+      "A retired Chief Justice of any High Court",
+      "Any senior advocate with 25 years experience"
+    ],
+    "options_hi": [
+      "केवल भारत के सेवानिवृत्त मुख्य न्यायाधीश",
+      "कोई व्यक्ति जो भारत का मुख्य न्यायाधीश या उच्चतम न्यायालय का न्यायाधीश रहा हो",
+      "किसी उच्च न्यायालय का सेवानिवृत्त मुख्य न्यायाधीश",
+      "25 वर्ष के अनुभव वाला कोई वरिष्ठ अधिवक्ता"
+    ],
+    "correct": "B",
+    "explanation_en": "The 2019 amendment widened the eligibility criteria: a person who has been Chief Justice of India OR a Judge of the Supreme Court is now eligible to head the NHRC.",
+    "explanation_hi": "2019 के संशोधन से पूर्व केवल पूर्व CJI ही अध्यक्ष बन सकते थे, लेकिन 2019 संशोधन के बाद भारत के सेवानिवृत्त मुख्य न्यायाधीश के साथ-साथ सर्वोच्च न्यायालय के सेवानिवृत्त न्यायाधीश भी NHRC अध्यक्ष बन सकते हैं।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836478"
+  },
+  {
+    "id": "MPPSC-Q-0097",
+    "unit": "Unit 10: Constitutional & Statutory Bodies",
+    "topic": "Constitutional & Statutory Bodies",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The National Commission for Women (NCW) was established as a statutory body in January 1992. Who served as its first Chairperson?",
+    "question_hi": "जनवरी 1992 में राष्ट्रीय महिला आयोग (NCW) की स्थापना एक वैधानिक निकाय के रूप में हुई। इसकी प्रथम अध्यक्ष कौन थीं?",
+    "options_en": [
+      "Mohini Giri",
+      "Jayanti Patnaik",
+      "Poornima Advani",
+      "Girija Vyas"
+    ],
+    "options_hi": [
+      "मोहिनी गिरी",
+      "जयंती पटनायक",
+      "पूर्णिमा आडवाणी",
+      "गिरिजा व्यास"
+    ],
+    "correct": "B",
+    "explanation_en": "Smt. Jayanti Patnaik served as the first Chairperson of the National Commission for Women from 31 January 1992 to 30 January 1995.",
+    "explanation_hi": "श्रीमती जयंती पटनायक राष्ट्रीय महिला आयोग की प्रथम अध्यक्ष थीं (कार्यकाल: 31 जनवरी 1992 से 30 जनवरी 1995)।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836483"
+  },
+  {
+    "id": "MPPSC-Q-0098",
+    "unit": "Unit 10: Constitutional & Statutory Bodies",
+    "topic": "Constitutional & Statutory Bodies",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "By which Constitutional Amendment Act was the erstwhile National Commission for Scheduled Castes and Scheduled Tribes bifurcated into two separate commissions (Article 338 and Article 338A)?",
+    "question_hi": "किस संविधान संशोधन अधिनियम द्वारा तत्कालीन संयुक्त राष्ट्रीय अनुसूचित जाति एवं अनुसूचित जनजाति आयोग को विभाजित कर दो पृथक आयोग (अनुच्छेद 338 और अनुच्छेद 338A) बनाए गए?",
+    "options_en": [
+      "65th Amendment Act, 1990",
+      "89th Amendment Act, 2003",
+      "92nd Amendment Act, 2003",
+      "102nd Amendment Act, 2018"
+    ],
+    "options_hi": [
+      "65वां संशोधन अधिनियम, 1990",
+      "89वां संशोधन अधिनियम, 2003",
+      "92वां संशोधन अधिनियम, 2003",
+      "102वां संशोधन अधिनियम, 2018"
+    ],
+    "correct": "B",
+    "explanation_en": "The 89th Constitutional Amendment Act 2003 bifurcated the commission into the National Commission for Scheduled Castes (NCSC under Art 338) and the National Commission for Scheduled Tribes (NCST under Art 338A) effective 2004.",
+    "explanation_hi": "89वें संविधान संशोधन अधिनियम 2003 द्वारा 2004 में राष्ट्रीय अनुसूचित जाति आयोग (अनुच्छेद 338) और राष्ट्रीय अनुसूचित जनजाति आयोग (अनुच्छेद 338A) को अलग-अलग संवैधानिक निकायों के रूप में स्थापित किया गया।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836487"
+  },
+  {
+    "id": "MPPSC-Q-0099",
+    "unit": "Unit 10: Constitutional & Statutory Bodies",
+    "topic": "Constitutional & Statutory Bodies",
+    "subtopic": "Core Syllabus",
+    "difficulty": "DIFFICULT",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The Central Information Commission (CIC) is constituted under the Right to Information Act, 2005. Which committee recommends the appointment of the Chief Information Commissioner to the President?",
+    "question_hi": "सूचना का अधिकार अधिनियम 2005 के तहत केंद्रीय सूचना आयोग (CIC) का गठन किया जाता है। मुख्य सूचना आयुक्त की नियुक्ति हेतु राष्ट्रपति को सिफारिश करने वाली समिति में कौन शामिल होता है?",
+    "options_en": [
+      "PM, CJI, and Leader of Opposition in Lok Sabha",
+      "PM, Leader of Opposition in Lok Sabha, and a Union Cabinet Minister nominated by PM",
+      "President, Vice President, and Lok Sabha Speaker",
+      "CJI, Law Minister, and Cabinet Secretary"
+    ],
+    "options_hi": [
+      "प्रधानमंत्री, भारत के मुख्य न्यायाधीश, और लोकसभा में विपक्ष के नेता",
+      "प्रधानमंत्री, लोकसभा में विपक्ष के नेता, और प्रधानमंत्री द्वारा नामित एक केंद्रीय कैबिनेट मंत्री",
+      "राष्ट्रपति, उपराष्ट्रपति और लोकसभा अध्यक्ष",
+      "मुख्य न्यायाधीश, विधि मंत्री और कैबिनेट सचिव"
+    ],
+    "correct": "B",
+    "explanation_en": "Under Section 12(3) of the RTI Act 2005, the appointment committee consists of: (1) Prime Minister (Chairperson), (2) Leader of Opposition in the Lok Sabha, and (3) a Union Cabinet Minister nominated by the PM.",
+    "explanation_hi": "RTI अधिनियम की धारा 12(3) के अनुसार चयन समिति में प्रधानमंत्री (अध्यक्ष), लोकसभा में विपक्ष के नेता और प्रधानमंत्री द्वारा नामित एक केंद्रीय कैबिनेट मंत्री शामिल होते हैं।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836490"
+  },
+  {
+    "id": "MPPSC-Q-0100",
+    "unit": "Unit 10: Constitutional & Statutory Bodies",
+    "topic": "Constitutional & Statutory Bodies",
+    "subtopic": "Core Syllabus",
+    "difficulty": "MODERATE",
+    "question_type": "DIRECT_FACTUAL",
+    "source_type": "ORIGINAL_PRACTICE",
+    "pyq_metadata": null,
+    "question_en": "The National Green Tribunal (NGT) was established under the NGT Act, 2010. Where is the Central Zonal Bench of the NGT located?",
+    "question_hi": "राष्ट्रीय हरित अधिकरण (NGT) की स्थापना एनजीटी अधिनियम 2010 के तहत की गई थी। एनजीटी की केंद्रीय क्षेत्रीय पीठ (Central Zonal Bench) कहां स्थित है?",
+    "options_en": [
+      "Indore",
+      "Bhopal",
+      "Jabalpur",
+      "Nagpur"
+    ],
+    "options_hi": [
+      "इंदौर",
+      "भोपाल",
+      "जबलपुर",
+      "नागपुर"
+    ],
+    "correct": "B",
+    "explanation_en": "The Principal Bench of the NGT is in New Delhi. It has four regional benches: Central Zone (Bhopal, MP), Eastern Zone (Kolkata), Western Zone (Pune), and Southern Zone (Chennai).",
+    "explanation_hi": "एनजीटी की प्रधान पीठ नई दिल्ली में स्थित है, जबकि इसकी मध्य क्षेत्रीय पीठ (Central Zonal Bench) मध्य प्रदेश के भोपाल में स्थित है।",
+    "stats": {
+      "times_served": 0,
+      "times_correct": 0,
+      "times_incorrect": 0,
+      "times_unattempted": 0,
+      "last_served": null
+    },
+    "created_at": "2026-10-26T15:52:07.836494"
+  }
+]

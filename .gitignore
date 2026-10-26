@@ -1,0 +1,14 @@
+# Sensitive credentials
+email_config.json
+daily_dispatch.log
+*.log
+
+# Dependencies & Build
+node_modules/
+dist/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
